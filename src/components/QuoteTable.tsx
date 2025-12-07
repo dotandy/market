@@ -14,12 +14,12 @@ interface QuoteTableProps {
 
 export default function QuoteTable({ initialData, onDataChange, date, productMasterList = [] }: QuoteTableProps) {
     const [data, setData] = useState<MarketData[]>(initialData);
-    const dateInputRef = useRef<HTMLInputElement>(null);
-    const endDateInputRef = useRef<HTMLInputElement>(null);
     const lastValidStart = useRef<string>('');
     const lastValidEnd = useRef<string>('');
 
-    // Autocomplete States
+    const [printMode, setPrintMode] = useState(false);
+    const startDateInputRef = useRef<HTMLInputElement>(null);
+    const endDateInputRef = useRef<HTMLInputElement>(null);
     const [activeSearchIndex, setActiveSearchIndex] = useState<number | null>(null);
     const [searchResults, setSearchResults] = useState<MarketData[]>([]);
     const searchWrapperRef = useRef<HTMLDivElement>(null);
@@ -248,6 +248,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
 
     const inputClass = "w-full bg-white border border-gray-400 rounded px-2 py-0.5 focus:ring-2 focus:ring-emerald-500 outline-none text-center font-normal font-inherit text-black";
     const headerInputClass = "bg-white border-2 border-gray-800 rounded px-2 py-0.5 focus:ring-2 focus:ring-emerald-500 outline-none font-normal text-lg mx-1 font-inherit";
+    const dateDisplayClass = "export-no-border bg-white border-2 border-gray-800 rounded px-2 py-0.5 font-normal text-lg font-inherit cursor-pointer select-none hover:bg-slate-50 transition-colors";
 
     return (
         <div className="w-full bg-white p-4 min-h-[800px] text-black" ref={searchWrapperRef} style={{ fontFamily: '"BiauKai", "Kaiti TC", "楷體-繁", "標楷體", "DFKai-SB", "STKaiti", serif' }}>
@@ -264,68 +265,84 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                         {/* Row 1: Date and Customer ID */}
                         <tr className="border-b-4 border-black text-lg font-normal">
                             <td colSpan={8} className="py-1">
-                                <div className="flex justify-between items-end">
-                                    <div className="flex items-center gap-2 whitespace-nowrap">
+                                <div className="flex justify-start items-center gap-4">
+                                    <div className="flex items-center gap-0.5">
                                         <span>貨單日期：</span>
-                                        <div className="relative flex items-center">
-                                            <input
-                                                type="text"
-                                                value={startDate}
-                                                onChange={(e) => {
-                                                    const val = e.target.value;
-                                                    if (/^[0-9/]*$/.test(val)) setStartDate(val);
-                                                }}
-                                                onBlur={(e) => {
-                                                    // Validation logic simplified for readability in diff, keeping original logic
-                                                    const val = e.target.value;
-                                                    if (val === startDate) {
-                                                        // Trigger validation if needed or just keep state
-                                                        // Reuse existing validation logic pattern
-                                                        if (/^[0-9/]*$/.test(val)) {
-                                                            setStartDate(val);
-                                                            setEndDate(val);
-                                                        }
+                                        <div
+                                            className="relative group cursor-pointer"
+                                            onClick={() => {
+                                                if (startDateInputRef.current) {
+                                                    try {
+                                                        startDateInputRef.current.showPicker();
+                                                    } catch (e) {
+                                                        startDateInputRef.current.click();
                                                     }
-                                                }}
-                                                className={headerInputClass}
-                                                style={{ width: '120px' }}
-                                            />
-                                            <div className="relative">
-                                                <button className="p-1 hover:bg-gray-100 rounded-full transition-colors pointer-events-none">
-                                                    <Calendar size={20} />
-                                                </button>
-                                                <input
-                                                    type="date"
-                                                    className="absolute inset-0 opacity-0 w-full h-full cursor-pointer"
-                                                    onChange={handleDateSelect}
-                                                />
+                                                }
+                                            }}
+                                        >
+                                            <div className="flex items-center px-1 bg-transparent rounded">
+                                                <span className={`${dateDisplayClass} w-[120px] text-center`}>
+                                                    {startDate}
+                                                </span>
                                             </div>
-                                        </div>
-                                        <span>至</span>
-                                        <div className="relative flex items-center">
                                             <input
-                                                type="text"
-                                                value={endDate}
-                                                onChange={(e) => {
-                                                    const val = e.target.value;
-                                                    if (/^[0-9/]*$/.test(val)) setEndDate(val);
-                                                }}
-                                                className={headerInputClass}
-                                                style={{ width: '120px' }}
+                                                ref={startDateInputRef}
+                                                type="date"
+                                                className="absolute inset-0 opacity-0 w-full h-full cursor-pointer z-10"
+                                                value={(() => {
+                                                    if (!startDate) return '';
+                                                    const parts = startDate.split('/');
+                                                    if (parts.length === 3) {
+                                                        const y = parseInt(parts[0]) + 1911;
+                                                        const m = String(parts[1]).padStart(2, '0');
+                                                        const d = String(parts[2]).padStart(2, '0');
+                                                        return `${y}-${m}-${d}`;
+                                                    }
+                                                    return '';
+                                                })()}
+                                                onChange={handleDateSelect}
                                             />
-                                            <div className="relative">
-                                                <button className="p-1 hover:bg-gray-100 rounded-full transition-colors pointer-events-none">
-                                                    <Calendar size={20} />
-                                                </button>
-                                                <input
-                                                    type="date"
-                                                    className="absolute inset-0 opacity-0 w-full h-full cursor-pointer"
-                                                    onChange={handleEndDateSelect}
-                                                />
-                                            </div>
                                         </div>
+                                        <span className="mx-0.5">至</span>
+                                        <div
+                                            className="relative group cursor-pointer"
+                                            onClick={() => {
+                                                if (endDateInputRef.current) {
+                                                    try {
+                                                        endDateInputRef.current.showPicker();
+                                                    } catch (e) {
+                                                        endDateInputRef.current.click();
+                                                    }
+                                                }
+                                            }}
+                                        >
+                                            <div className="flex items-center px-1 bg-transparent rounded">
+                                                <span className={`${dateDisplayClass} w-[120px] text-center`}>
+                                                    {endDate}
+                                                </span>
+                                            </div>
+                                            <input
+                                                ref={endDateInputRef}
+                                                type="date"
+                                                className="absolute inset-0 opacity-0 w-full h-full cursor-pointer z-10"
+                                                value={(() => {
+                                                    if (!endDate) return '';
+                                                    const parts = endDate.split('/');
+                                                    if (parts.length === 3) {
+                                                        const y = parseInt(parts[0]) + 1911;
+                                                        const m = String(parts[1]).padStart(2, '0');
+                                                        const d = String(parts[2]).padStart(2, '0');
+                                                        return `${y}-${m}-${d}`;
+                                                    }
+                                                    return '';
+                                                })()}
+                                                onChange={handleEndDateSelect}
+                                            />
+                                        </div>
+                                    </div>
 
-                                        <span className="ml-4">客戶編號：</span>
+                                    <div className="flex items-center">
+                                        <span className="mr-1">客戶編號：</span>
                                         <input
                                             type="text"
                                             value={customerId}
@@ -367,10 +384,10 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                         </tr>
 
                         <tr className="border-b border-black">
-                            <th className="py-1 text-center w-40 whitespace-nowrap">貨單日期</th>
+                            <th className="py-1 text-center w-32 whitespace-nowrap">貨單日期</th>
                             <th className="py-1 text-center whitespace-nowrap">貨品名稱</th>
                             <th className="py-1 text-center w-24 whitespace-nowrap">數量</th>
-                            <th className="py-1 text-center w-24 whitespace-nowrap">單位</th>
+                            <th className="py-1 text-center w-20 whitespace-nowrap">單位</th>
                             <th className="py-1 text-center w-24 whitespace-nowrap">售價</th>
                             <th className="py-1 text-center w-24 whitespace-nowrap">小計</th>
                             <th className="py-1 text-center pl-4 w-auto whitespace-nowrap">備註</th>
@@ -469,9 +486,9 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                                     {index > 0 && (
                                         <button
                                             onClick={() => handleDelete(index)}
-                                            className="text-red-500 hover:text-red-700 transition-colors p-1"
+                                            className="text-slate-600 hover:text-slate-800 transition-colors p-1"
                                         >
-                                            <X size={20} strokeWidth={3} />
+                                            <Trash2 size={20} />
                                         </button>
                                     )}
                                 </td>

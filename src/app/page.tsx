@@ -45,6 +45,7 @@ export default function Home() {
   const [queryProgress, setQueryProgress] = useState<number>(0);
 
   const tableRef = useRef<HTMLDivElement>(null);
+  const dateInputRef = useRef<HTMLInputElement>(null);
   const lastValidDate = useRef<string>('');
 
   // Set default date to today (TW format) on mount
@@ -468,6 +469,14 @@ export default function Home() {
 
       cleanStyles(clone);
 
+      // FIX: Remove borders from marked elements for clean export
+      const noBorderElements = clone.querySelectorAll('.export-no-border');
+      noBorderElements.forEach((el) => {
+        (el as HTMLElement).style.border = 'none';
+        (el as HTMLElement).style.boxShadow = 'none'; // Ensure no shadow residue
+        (el as HTMLElement).style.backgroundColor = 'transparent'; // Optional: ensure transparent bg
+      });
+
       // FIX: Reveal Overflow
       const scrollableDiv = clone.querySelector('.overflow-x-auto');
       if (scrollableDiv) {
@@ -511,6 +520,14 @@ export default function Home() {
       document.body.appendChild(clone);
 
       cleanStyles(clone);
+
+      // FIX: Remove borders from marked elements for clean export
+      const noBorderElements = clone.querySelectorAll('.export-no-border');
+      noBorderElements.forEach((el) => {
+        (el as HTMLElement).style.border = 'none';
+        (el as HTMLElement).style.boxShadow = 'none';
+        (el as HTMLElement).style.backgroundColor = 'transparent';
+      });
 
       // FIX: Reveal Overflow
       const scrollableDiv = clone.querySelector('.overflow-x-auto');
@@ -660,56 +677,50 @@ export default function Home() {
                         </span>
                       )}
                     </label>
-                    <div className="flex items-center gap-2">
-                      <input
-                        type="text"
-                        value={date}
-                        onChange={(e) => {
-                          const val = e.target.value;
-                          if (/^[0-9/]*$/.test(val)) {
-                            setDate(val);
+                    <div
+                      className="relative group cursor-pointer"
+                      onClick={() => {
+                        // Attempt to open picker programmatically
+                        if (dateInputRef.current) {
+                          try {
+                            dateInputRef.current.showPicker();
+                          } catch (e) {
+                            // Fallback for older browsers
+                            dateInputRef.current.click();
                           }
-                        }}
-                        onBlur={(e) => {
-                          const val = e.target.value;
-                          const parts = val.split('/');
-                          let isValid = false;
+                        }
+                      }}
+                    >
+                      <div className="flex items-center gap-2 px-4 py-2 bg-slate-50 border border-slate-200 rounded-lg group-hover:bg-slate-100 transition-colors">
+                        <span className="text-slate-700 font-medium tracking-wider text-base w-28 text-center select-none">
+                          {date || "選擇日期"}
+                        </span>
+                      </div>
+                      <input
+                        ref={dateInputRef}
+                        type="date"
+                        className="absolute inset-0 opacity-0 w-full h-full cursor-pointer z-10"
+                        value={(() => {
+                          if (!date) return '';
+                          const parts = date.split('/');
                           if (parts.length === 3) {
                             const y = parseInt(parts[0]) + 1911;
-                            const m = parseInt(parts[1]);
-                            const d = parseInt(parts[2]);
-                            if (m >= 1 && m <= 12) {
-                              const maxDay = new Date(y, m, 0).getDate();
-                              if (d >= 1 && d <= maxDay) {
-                                isValid = true;
-                              }
-                            }
+                            const m = String(parts[1]).padStart(2, '0');
+                            const d = String(parts[2]).padStart(2, '0');
+                            return `${y}-${m}-${d}`;
                           }
-                          if (!isValid && lastValidDate.current) {
-                            setDate(lastValidDate.current);
-                          }
+                          return '';
+                        })()}
+                        onChange={(e) => {
+                          const val = e.target.value;
+                          if (!val) return;
+                          const [y, m, d] = val.split('-').map(Number);
+                          const rocY = y - 1911;
+                          const rocM = String(m).padStart(2, '0');
+                          const rocD = String(d).padStart(2, '0');
+                          setDate(`${rocY}/${rocM}/${rocD}`);
                         }}
-                        className="w-32 px-4 py-2 bg-slate-50 border border-slate-200 rounded-lg focus:ring-2 focus:ring-slate-500 focus:border-transparent outline-none transition-all text-center"
-                        placeholder="YYY/MM/DD"
                       />
-                      <div className="relative">
-                        <div className="p-2 bg-slate-100 hover:bg-slate-200 rounded-lg text-slate-600 transition-colors cursor-pointer">
-                          <Calendar size={20} />
-                        </div>
-                        <input
-                          type="date"
-                          className="absolute inset-0 opacity-0 w-full h-full cursor-pointer"
-                          onChange={(e) => {
-                            const val = e.target.value;
-                            if (!val) return;
-                            const [y, m, d] = val.split('-').map(Number);
-                            const rocY = y - 1911;
-                            const rocM = String(m).padStart(2, '0');
-                            const rocD = String(d).padStart(2, '0');
-                            setDate(`${rocY}/${rocM}/${rocD}`);
-                          }}
-                        />
-                      </div>
                     </div>
                   </div>
 
@@ -764,13 +775,13 @@ export default function Home() {
                       }
                       return false;
                     })()}
-                    className="px-6 py-2 bg-slate-700 hover:bg-slate-800 text-white font-semibold rounded-lg shadow-md hover:shadow-lg transition-all flex items-center gap-2 disabled:opacity-70 disabled:cursor-not-allowed"
+                    className="p-2 bg-slate-700 hover:bg-slate-800 text-white font-semibold rounded-lg shadow-md hover:shadow-lg transition-all flex items-center justify-center disabled:opacity-70 disabled:cursor-not-allowed w-10 h-10"
+                    title="查詢資料"
                   >
                     {loading ? <Loader2 className="animate-spin" size={20} /> : <Search size={20} />}
-                    查詢資料
                   </button>
 
-                  <div className="h-8 w-px bg-slate-200 mx-2"></div>
+                  <div className="w-0"></div>
 
                   <ExcelImport onImport={handleImport} onError={handleImportError} />
                 </div>
@@ -800,76 +811,66 @@ export default function Home() {
                 )}
 
                 {/* Query Results Table */}
-                {queryResults.length > 0 && (
-                  <div className="mt-6">
-                    {/* Header Row: Title, Status */}
-                    <div className="flex items-center gap-4 mb-4">
-                      <h2 className="text-xl font-bold text-slate-700 flex items-center gap-2">
-                        <FileText className="text-slate-700" size={24} />
-                        查詢結果
-                      </h2>
+                {/* Changed: Always render the container to show header even if no results yet (for initial status) */}
+                <div className="mt-6">
+                  {/* Header Row: Title, Status */}
+                  <div className="flex items-center justify-start gap-4 mb-4">
+                    <h2 className="text-xl font-bold text-slate-700 flex items-center gap-2">
+                      {/* Status Light Icon */}
+                      <div className={`w-3 h-3 rounded-full ${queryStatus === 'closed' ? 'bg-red-500 shadow-[0_0_8px_rgba(239,68,68,0.6)]' :
+                        queryStatus === 'success' ? 'bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.6)]' :
+                          'bg-yellow-400 shadow-[0_0_8px_rgba(250,204,21,0.6)]' // Default/Loading
+                        }`} />
+                      查詢結果
+                    </h2>
 
-                      {/* Status Bar */}
-                      {queryStatus && (
-                        <div className={`px-3 py-1 rounded-full text-sm font-bold flex items-center gap-2 ${queryStatus === 'closed'
-                          ? 'bg-red-100 text-red-600'
-                          : 'bg-emerald-100 text-emerald-600'
-                          }`}>
-                          <div className={`w-2 h-2 rounded-full ${queryStatus === 'closed' ? 'bg-red-500' : 'bg-emerald-500'
-                            }`} />
-                          {queryStatus === 'closed' ? '休市' : '成功'}
-                        </div>
-                      )}
+                    {/* Right: Timestamp (Moved here) */}
+                    <span className="text-sm text-slate-400 font-mono">
+                      {queryTimestamp && `(${queryTimestamp})`}
+                    </span>
+                  </div>
 
-                      {/* Progress Bar */}
-                      {loading && (
-                        <div className="flex items-center gap-2 ml-4 flex-1">
-                          <div className="w-48 h-2 bg-slate-200 rounded-full overflow-hidden">
-                            <div
-                              className="h-full bg-slate-700 transition-all duration-300 ease-out"
-                              style={{ width: `${queryProgress}%` }}
-                            />
-                          </div>
-                          <span className="text-xs text-slate-500 font-mono min-w-[3ch]">{queryProgress}%</span>
-                        </div>
-                      )}
-                    </div>
-
-                    {/* Toolbar Row: Category Filters (Left) + Search (Right) + Timestamp (Far Right) */}
-                    <div className="flex justify-between items-center mb-4">
-                      {/* Left: Category Filters & Search */}
-                      <div className="flex gap-3 items-center">
-                        <select
-                          value={categoryFilter}
-                          onChange={(e) => setCategoryFilter(e.target.value)}
-                          className="px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-slate-500 focus:border-transparent outline-none"
-                        >
-                          <option value="all">全部類別</option>
-                          <option value="Vegetable">蔬菜</option>
-                          <option value="Fruit">水果</option>
-                        </select>
-
-                        <input
-                          type="text"
-                          placeholder="搜尋產品代號或名稱..."
-                          value={searchTerm}
-                          onChange={(e) => setSearchTerm(e.target.value)}
-                          className="w-64 px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-slate-500 focus:border-transparent outline-none"
+                  {/* Progress Bar (if loading) */}
+                  {loading && (
+                    <div className="flex items-center gap-2 mb-4">
+                      <div className="w-full h-1 bg-slate-100 rounded-full overflow-hidden">
+                        <div
+                          className="h-full bg-slate-400/50 transition-all duration-300 ease-out"
+                          style={{ width: `${queryProgress}%` }}
                         />
                       </div>
+                    </div>
+                  )}
 
-                      {/* Right: Timestamp */}
-                      <span className="text-sm text-slate-400 font-mono">
-                        {queryTimestamp && `(${queryTimestamp})`}
-                      </span>
+                  {/* Toolbar Row: Category Filters (Left) + Search (Right) */}
+                  <div className="flex flex-wrap gap-4 justify-between items-center mb-4">
+                    {/* Left: Category Filters & Search */}
+                    <div className="flex flex-wrap gap-3 items-center">
+                      <select
+                        value={categoryFilter}
+                        onChange={(e) => setCategoryFilter(e.target.value)}
+                        className="px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-slate-500 focus:border-transparent outline-none"
+                      >
+                        <option value="all">全部類別</option>
+                        <option value="Vegetable">蔬菜</option>
+                        <option value="Fruit">水果</option>
+                      </select>
+
+                      <input
+                        type="text"
+                        placeholder="搜尋產品代號或名稱..."
+                        value={searchTerm}
+                        onChange={(e) => setSearchTerm(e.target.value)}
+                        className="w-64 px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:ring-2 focus:ring-slate-500 focus:border-transparent outline-none"
+                      />
                     </div>
                     <div className="overflow-x-auto bg-white rounded-lg border border-slate-200">
-                      <table className="w-full text-sm">
+                      <table className="w-full text-sm min-w-[800px]">
                         <thead className="bg-slate-50 border-b border-slate-200">
                           <tr>
-                            <th className="px-4 py-2 text-left font-semibold text-slate-700">類別</th>
-                            <th className="px-4 py-2 text-left font-semibold text-slate-700">產品代號</th>
-                            <th className="px-4 py-2 text-left font-semibold text-slate-700">產品名稱</th>
+                            <th className="px-4 py-2 text-left font-semibold text-slate-700 whitespace-nowrap">類別</th>
+                            <th className="px-4 py-2 text-left font-semibold text-slate-700 whitespace-nowrap">產品代號</th>
+                            <th className="px-4 py-2 text-left font-semibold text-slate-700 whitespace-nowrap">產品名稱</th>
                             <th className="px-4 py-2 text-right font-semibold text-slate-700">上價</th>
                             <th className="px-4 py-2 text-right font-semibold text-slate-700">中價</th>
                             <th className="px-4 py-2 text-right font-semibold text-slate-700">下價</th>
@@ -880,7 +881,7 @@ export default function Home() {
                         <tbody>
                           {filteredResults.map((item, index) => (
                             <tr key={index} className="border-b border-slate-100 hover:bg-slate-50">
-                              <td className="px-4 py-2">
+                              <td className="px-4 py-2 whitespace-nowrap">
                                 <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${item.category === 'Vegetable'
                                   ? 'bg-green-100 text-green-700'
                                   : 'bg-orange-100 text-orange-700'
@@ -888,8 +889,8 @@ export default function Home() {
                                   {item.category === 'Vegetable' ? '蔬菜' : '水果'}
                                 </span>
                               </td>
-                              <td className="px-4 py-2 text-slate-600">{item.productCode}</td>
-                              <td className="px-4 py-2 text-slate-800">{item.productName}</td>
+                              <td className="px-4 py-2 text-slate-600 whitespace-nowrap">{item.productCode}</td>
+                              <td className="px-4 py-2 text-slate-800 whitespace-nowrap">{item.productName}</td>
                               <td className="px-4 py-2 text-right text-slate-600">{item.upperPrice}</td>
                               <td className="px-4 py-2 text-right text-slate-600">{item.middlePrice}</td>
                               <td className="px-4 py-2 text-right text-slate-600">{item.lowerPrice}</td>
@@ -901,7 +902,7 @@ export default function Home() {
                       </table>
                     </div>
                   </div>
-                )}
+                </div>
               </div>
             ) : (
               <div className="space-y-6">
