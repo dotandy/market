@@ -75,7 +75,8 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
     // Handle click outside to close autocomplete
     useEffect(() => {
         function handleClickOutside(event: MouseEvent) {
-            if (searchWrapperRef.current && !searchWrapperRef.current.contains(event.target as Node)) {
+            const target = event.target as Element;
+            if (target && !target.closest('.product-search-container')) {
                 setActiveSearchIndex(null);
             }
         }
@@ -251,7 +252,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
     const dateDisplayClass = "export-no-border bg-white border-2 border-gray-800 rounded px-2 py-0.5 font-normal text-lg font-inherit cursor-pointer select-none hover:bg-slate-50 transition-colors";
 
     return (
-        <div className="w-full bg-white p-4 min-h-[800px] text-black" ref={searchWrapperRef} style={{ fontFamily: '"BiauKai", "Kaiti TC", "楷體-繁", "標楷體", "DFKai-SB", "STKaiti", serif' }}>
+        <div className="w-full bg-white p-4 min-h-[800px] text-black" style={{ fontFamily: '"BiauKai", "Kaiti TC", "楷體-繁", "標楷體", "DFKai-SB", "STKaiti", serif' }}>
             {/* Header */}
             <div className="text-center mb-3">
                 <h1 className="text-3xl font-normal tracking-widest mb-2">義庄合作農場</h1>
@@ -384,7 +385,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                         </tr>
 
                         <tr className="border-b border-black">
-                            <th className="py-1 text-center w-32 whitespace-nowrap">貨單日期</th>
+                            <th className="py-1 text-center w-36 whitespace-nowrap">貨單日期</th>
                             <th className="py-1 text-center whitespace-nowrap">貨品名稱</th>
                             <th className="py-1 text-center w-24 whitespace-nowrap">數量</th>
                             <th className="py-1 text-center w-20 whitespace-nowrap">單位</th>
@@ -405,7 +406,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                                         className="w-full bg-transparent outline-none text-black text-center"
                                     />
                                 </td>
-                                <td className="py-1 pr-2 relative whitespace-nowrap">
+                                <td className="py-1 pr-2 relative whitespace-nowrap product-search-container">
                                     <input
                                         type="text"
                                         value={row.productName}

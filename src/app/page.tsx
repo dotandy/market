@@ -464,7 +464,8 @@ export default function Home() {
       clone.style.zIndex = '-9999';
       // FIX: Full Width Capture
       clone.style.width = 'fit-content';
-      clone.style.minWidth = '1100px'; // Ensure fixed minimal width context like displayed
+      clone.style.width = 'fit-content';
+      // clone.style.minWidth = '1100px'; // Removed to ensure proper centering based on content
       document.body.appendChild(clone);
 
       cleanStyles(clone);
@@ -516,7 +517,7 @@ export default function Home() {
       clone.style.zIndex = '-9999';
       // FIX: Full Width Capture
       clone.style.width = 'fit-content';
-      clone.style.minWidth = '1100px';
+      // clone.style.minWidth = '1100px';
       document.body.appendChild(clone);
 
       cleanStyles(clone);
@@ -555,7 +556,7 @@ export default function Home() {
       const pdf = new jsPDF('p', 'mm', 'a4');
       const pdfPageWidth = pdf.internal.pageSize.getWidth();
       const pdfPageHeight = pdf.internal.pageSize.getHeight();
-      const margin = 10;
+      const margin = 20;
       const contentMaxWidth = pdfPageWidth - (margin * 2);
       const contentMaxHeight = pdfPageHeight - (margin * 2);
 
