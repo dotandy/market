@@ -1,0 +1,1277 @@
+{
+  "date": "114/12/06",
+  "data": [
+    {
+      "productCode": "FA0",
+      "productName": "其他花類"
+    },
+    {
+      "productCode": "FA1",
+      "productName": "黃秋葵"
+    },
+    {
+      "productCode": "FB1",
+      "productName": "花椰菜-青梗"
+    },
+    {
+      "productCode": "FC1",
+      "productName": "胡瓜-黑刺"
+    },
+    {
+      "productCode": "FD0",
+      "productName": "花胡瓜-其他"
+    },
+    {
+      "productCode": "FD1",
+      "productName": "花胡瓜"
+    },
+    {
+      "productCode": "FE1",
+      "productName": "冬瓜-白皮"
+    },
+    {
+      "productCode": "FF0",
+      "productName": "絲瓜-其他"
+    },
+    {
+      "productCode": "FF1",
+      "productName": "絲瓜"
+    },
+    {
+      "productCode": "FG0",
+      "productName": "苦瓜-其他"
+    },
+    {
+      "productCode": "FG1",
+      "productName": "苦瓜-白大米"
+    },
+    {
+      "productCode": "FG3",
+      "productName": "苦瓜-山苦瓜"
+    },
+    {
+      "productCode": "FG4",
+      "productName": "苦瓜-翠綠"
+    },
+    {
+      "productCode": "FH3",
+      "productName": "扁蒲-花蒲"
+    },
+    {
+      "productCode": "FH4",
+      "productName": "扁蒲-梨子蒲"
+    },
+    {
+      "productCode": "FI0",
+      "productName": "茄子-其他"
+    },
+    {
+      "productCode": "FI2",
+      "productName": "茄子-麻荸茄"
+    },
+    {
+      "productCode": "FI3",
+      "productName": "茄子-日本種"
+    },
+    {
+      "productCode": "FJ1",
+      "productName": "番茄-黑柿"
+    },
+    {
+      "productCode": "FJ3",
+      "productName": "番茄-牛番茄"
+    },
+    {
+      "productCode": "FK3",
+      "productName": "甜椒-新香"
+    },
+    {
+      "productCode": "FK40",
+      "productName": "甜椒-彩色種 其他"
+    },
+    {
+      "productCode": "FK41",
+      "productName": "甜椒-彩色種 紅色"
+    },
+    {
+      "productCode": "FK42",
+      "productName": "甜椒-彩色種 黃色"
+    },
+    {
+      "productCode": "FK5",
+      "productName": "甜椒-青椒"
+    },
+    {
+      "productCode": "FK6",
+      "productName": "甜椒-水果彩椒"
+    },
+    {
+      "productCode": "FK9",
+      "productName": "甜椒-進口"
+    },
+    {
+      "productCode": "FL1",
+      "productName": "豌豆-白花"
+    },
+    {
+      "productCode": "FL2",
+      "productName": "豌豆-紅花"
+    },
+    {
+      "productCode": "FL5",
+      "productName": "豌豆-豌豆苗"
+    },
+    {
+      "productCode": "FL6",
+      "productName": "豌豆-甜豌豆"
+    },
+    {
+      "productCode": "FL9",
+      "productName": "豌豆-進口"
+    },
+    {
+      "productCode": "FL92",
+      "productName": "豌豆-進口 紅花"
+    },
+    {
+      "productCode": "FM2",
+      "productName": "菜豆-青色"
+    },
+    {
+      "productCode": "FN1",
+      "productName": "敏豆-白豆"
+    },
+    {
+      "productCode": "FN3",
+      "productName": "敏豆-粉豆"
+    },
+    {
+      "productCode": "FN4",
+      "productName": "敏豆-翼豆"
+    },
+    {
+      "productCode": "FN5",
+      "productName": "敏豆-醜豆"
+    },
+    {
+      "productCode": "FP1",
+      "productName": "萊豆-豆莢"
+    },
+    {
+      "productCode": "FQ1",
+      "productName": "毛豆-豆莢"
+    },
+    {
+      "productCode": "FQ2",
+      "productName": "毛豆-豆仁"
+    },
+    {
+      "productCode": "FR1",
+      "productName": "青花苔"
+    },
+    {
+      "productCode": "FR2",
+      "productName": "青花苔-青花筍"
+    },
+    {
+      "productCode": "FR9",
+      "productName": "青花苔-進口"
+    },
+    {
+      "productCode": "FT0",
+      "productName": "南瓜-其他"
+    },
+    {
+      "productCode": "FT11",
+      "productName": "南瓜-木瓜型 阿成"
+    },
+    {
+      "productCode": "FT12",
+      "productName": "南瓜-木瓜型 阿嬌"
+    },
+    {
+      "productCode": "FT2",
+      "productName": "南瓜-圓形"
+    },
+    {
+      "productCode": "FT3",
+      "productName": "南瓜-黃如意"
+    },
+    {
+      "productCode": "FT5",
+      "productName": "南瓜-青如意"
+    },
+    {
+      "productCode": "FT7",
+      "productName": "南瓜-栗子"
+    },
+    {
+      "productCode": "FT97",
+      "productName": "南瓜-進口 栗子"
+    },
+    {
+      "productCode": "FU1",
+      "productName": "隼人瓜"
+    },
+    {
+      "productCode": "FU2",
+      "productName": "隼人瓜-瓜苗"
+    },
+    {
+      "productCode": "FV0",
+      "productName": "辣椒-其他"
+    },
+    {
+      "productCode": "FV1",
+      "productName": "辣椒-紅小"
+    },
+    {
+      "productCode": "FV2",
+      "productName": "辣椒-青小"
+    },
+    {
+      "productCode": "FV4",
+      "productName": "辣椒-朝天椒"
+    },
+    {
+      "productCode": "FV6",
+      "productName": "辣椒-糯米椒"
+    },
+    {
+      "productCode": "FY0",
+      "productName": "玉米-其他"
+    },
+    {
+      "productCode": "FY1",
+      "productName": "玉米-白玉米"
+    },
+    {
+      "productCode": "FY4",
+      "productName": "玉米-玉米筍"
+    },
+    {
+      "productCode": "FY41",
+      "productName": "玉米-玉米筍 帶殼"
+    },
+    {
+      "productCode": "FY5",
+      "productName": "玉米-糯米黑"
+    },
+    {
+      "productCode": "FY6",
+      "productName": "玉米-甜軟殼"
+    },
+    {
+      "productCode": "FY8",
+      "productName": "玉米-白龍王"
+    },
+    {
+      "productCode": "FY9",
+      "productName": "玉米-進口"
+    },
+    {
+      "productCode": "FY94",
+      "productName": "玉米-進口 玉米筍"
+    },
+    {
+      "productCode": "FZ1",
+      "productName": "落花生-生"
+    },
+    {
+      "productCode": "FZ2",
+      "productName": "落花生-熟"
+    },
+    {
+      "productCode": "LA1",
+      "productName": "甘藍-初秋"
+    },
+    {
+      "productCode": "LA2",
+      "productName": "甘藍-改良種"
+    },
+    {
+      "productCode": "LA5",
+      "productName": "甘藍-甘藍心"
+    },
+    {
+      "productCode": "LA6",
+      "productName": "甘藍-甘藍芽"
+    },
+    {
+      "productCode": "LA7",
+      "productName": "甘藍-改良尖"
+    },
+    {
+      "productCode": "LA94",
+      "productName": "甘藍-進口 紫色"
+    },
+    {
+      "productCode": "LB1",
+      "productName": "小白菜-土白菜"
+    },
+    {
+      "productCode": "LB2",
+      "productName": "小白菜-蚵仔白"
+    },
+    {
+      "productCode": "LB3",
+      "productName": "小白菜-奶油白"
+    },
+    {
+      "productCode": "LB8",
+      "productName": "小白菜-水耕"
+    },
+    {
+      "productCode": "LC0",
+      "productName": "包心白-其他"
+    },
+    {
+      "productCode": "LC1",
+      "productName": "包心白-包白"
+    },
+    {
+      "productCode": "LC3",
+      "productName": "包心白-包頭蓮"
+    },
+    {
+      "productCode": "LC9",
+      "productName": "包心白-進口"
+    },
+    {
+      "productCode": "LC90",
+      "productName": "包心白菜-進口 其他"
+    },
+    {
+      "productCode": "LC93",
+      "productName": "包心白菜-進口 包頭蓮 "
+    },
+    {
+      "productCode": "LD1",
+      "productName": "青江白菜-小梗"
+    },
+    {
+      "productCode": "LE1",
+      "productName": "皇宮菜-小葉"
+    },
+    {
+      "productCode": "LE2",
+      "productName": "皇宮菜-大葉"
+    },
+    {
+      "productCode": "LF2",
+      "productName": "蕹菜-小葉"
+    },
+    {
+      "productCode": "LF3",
+      "productName": "蕹菜-水蕹菜"
+    },
+    {
+      "productCode": "LG2",
+      "productName": "芹菜-白梗"
+    },
+    {
+      "productCode": "LG3",
+      "productName": "芹菜-西洋芹菜"
+    },
+    {
+      "productCode": "LG5",
+      "productName": "芹菜-芹菜管"
+    },
+    {
+      "productCode": "LG9",
+      "productName": "芹菜-進口"
+    },
+    {
+      "productCode": "LH1",
+      "productName": "菠菜-圓葉"
+    },
+    {
+      "productCode": "LH2",
+      "productName": "菠菜-角葉"
+    },
+    {
+      "productCode": "LI0",
+      "productName": "萵苣菜-其他"
+    },
+    {
+      "productCode": "LI1",
+      "productName": "萵苣菜-廣東菜"
+    },
+    {
+      "productCode": "LI2",
+      "productName": "萵苣菜-結球萵"
+    },
+    {
+      "productCode": "LI3",
+      "productName": "萵苣菜-本島圓葉"
+    },
+    {
+      "productCode": "LI4",
+      "productName": "萵苣菜-本島尖葉"
+    },
+    {
+      "productCode": "LI5",
+      "productName": "萵苣菜-油麥菜"
+    },
+    {
+      "productCode": "LI6",
+      "productName": "萵苣菜-蘿美"
+    },
+    {
+      "productCode": "LI71",
+      "productName": "萵苣菜-紅捲"
+    },
+    {
+      "productCode": "LI8",
+      "productName": "萵苣菜-水耕"
+    },
+    {
+      "productCode": "LI9",
+      "productName": "萵苣菜-進口"
+    },
+    {
+      "productCode": "LJ1",
+      "productName": "芥菜-芥菜仁"
+    },
+    {
+      "productCode": "LJ3",
+      "productName": "芥菜-大芥菜"
+    },
+    {
+      "productCode": "LJ4",
+      "productName": "芥菜-小芥菜"
+    },
+    {
+      "productCode": "LJ5",
+      "productName": "芥菜-翡翠娃娃菜"
+    },
+    {
+      "productCode": "LK2",
+      "productName": "芥藍菜"
+    },
+    {
+      "productCode": "LK3",
+      "productName": "芥藍菜-芥藍芽"
+    },
+    {
+      "productCode": "LL1",
+      "productName": "茼蒿"
+    },
+    {
+      "productCode": "LL2",
+      "productName": "茼蒿-山茼蒿"
+    },
+    {
+      "productCode": "LM2",
+      "productName": "莧菜-白莧菜"
+    },
+    {
+      "productCode": "LN1",
+      "productName": "油菜"
+    },
+    {
+      "productCode": "LN2",
+      "productName": "油菜-小松菜"
+    },
+    {
+      "productCode": "LN3",
+      "productName": "油菜-油菜花"
+    },
+    {
+      "productCode": "LO1",
+      "productName": "甘薯葉"
+    },
+    {
+      "productCode": "LP1",
+      "productName": "芫荽"
+    },
+    {
+      "productCode": "LP2",
+      "productName": "九層塔"
+    },
+    {
+      "productCode": "LQ1",
+      "productName": "紅鳳菜-紅鳳菜"
+    },
+    {
+      "productCode": "LS1",
+      "productName": "茴香"
+    },
+    {
+      "productCode": "LT2",
+      "productName": "海菜-海帶"
+    },
+    {
+      "productCode": "LT3",
+      "productName": "海菜-水蓮"
+    },
+    {
+      "productCode": "LV1",
+      "productName": "巴西利"
+    },
+    {
+      "productCode": "LX1",
+      "productName": "蕨菜-過貓"
+    },
+    {
+      "productCode": "LX2",
+      "productName": "蕨菜-山蘇"
+    },
+    {
+      "productCode": "LY2",
+      "productName": "黑甜仔菜"
+    },
+    {
+      "productCode": "MA0",
+      "productName": "洋菇-其他"
+    },
+    {
+      "productCode": "MA1",
+      "productName": "洋菇"
+    },
+    {
+      "productCode": "MA2",
+      "productName": "洋菇-盒裝"
+    },
+    {
+      "productCode": "MB1",
+      "productName": "草菇"
+    },
+    {
+      "productCode": "MC1",
+      "productName": "濕木耳"
+    },
+    {
+      "productCode": "MD1",
+      "productName": "濕香菇"
+    },
+    {
+      "productCode": "ME1",
+      "productName": "金絲菇-金針菇"
+    },
+    {
+      "productCode": "ME2",
+      "productName": "金絲菇-盒裝"
+    },
+    {
+      "productCode": "MI1",
+      "productName": "秀珍菇"
+    },
+    {
+      "productCode": "MJ1",
+      "productName": "杏鮑菇"
+    },
+    {
+      "productCode": "MJ2",
+      "productName": "杏鮑菇-盒裝"
+    },
+    {
+      "productCode": "MK1",
+      "productName": "鴻喜菇"
+    },
+    {
+      "productCode": "MK2",
+      "productName": "鴻喜菇-盒裝"
+    },
+    {
+      "productCode": "MN1",
+      "productName": "柳松菇"
+    },
+    {
+      "productCode": "MX1",
+      "productName": "其他菇類"
+    },
+    {
+      "productCode": "OA2",
+      "productName": "鹹菜-帶葉"
+    },
+    {
+      "productCode": "OB1",
+      "productName": "雪里紅"
+    },
+    {
+      "productCode": "OD1",
+      "productName": "蘿蔔乾"
+    },
+    {
+      "productCode": "OG2",
+      "productName": "熟筍-箭竹筍"
+    },
+    {
+      "productCode": "OX1",
+      "productName": "其他"
+    },
+    {
+      "productCode": "SA3",
+      "productName": "蘿蔔-矸仔"
+    },
+    {
+      "productCode": "SA6",
+      "productName": "蘿蔔-白玉蘿蔔"
+    },
+    {
+      "productCode": "SA7",
+      "productName": "蘿蔔-甜菜根"
+    },
+    {
+      "productCode": "SB1",
+      "productName": "胡蘿蔔-未洗"
+    },
+    {
+      "productCode": "SB2",
+      "productName": "胡蘿蔔-清洗"
+    },
+    {
+      "productCode": "SB9",
+      "productName": "胡蘿蔔-進口"
+    },
+    {
+      "productCode": "SC1",
+      "productName": "馬鈴薯-本產"
+    },
+    {
+      "productCode": "SC9",
+      "productName": "馬鈴薯-進口"
+    },
+    {
+      "productCode": "SD9",
+      "productName": "洋蔥-進口"
+    },
+    {
+      "productCode": "SE1",
+      "productName": "青蔥-日蔥"
+    },
+    {
+      "productCode": "SE2",
+      "productName": "青蔥-北蔥"
+    },
+    {
+      "productCode": "SE5",
+      "productName": "青蔥-紅蔥頭"
+    },
+    {
+      "productCode": "SE6",
+      "productName": "青蔥-粉蔥"
+    },
+    {
+      "productCode": "SF1",
+      "productName": "韭菜-白頭"
+    },
+    {
+      "productCode": "SF2",
+      "productName": "韭菜-韭菜黃"
+    },
+    {
+      "productCode": "SF3",
+      "productName": "韭菜-韭菜花"
+    },
+    {
+      "productCode": "SF4",
+      "productName": "韭菜-青頭"
+    },
+    {
+      "productCode": "SG2",
+      "productName": "大蒜-軟梗"
+    },
+    {
+      "productCode": "SG5",
+      "productName": "大蒜-蒜頭"
+    },
+    {
+      "productCode": "SG6",
+      "productName": "大蒜-蒜仁"
+    },
+    {
+      "productCode": "SG7",
+      "productName": "大蒜-蒜瓣"
+    },
+    {
+      "productCode": "SH5",
+      "productName": "竹筍-烏殼綠"
+    },
+    {
+      "productCode": "SH7",
+      "productName": "竹筍-去殼"
+    },
+    {
+      "productCode": "SI1",
+      "productName": "萵苣莖"
+    },
+    {
+      "productCode": "SJ2",
+      "productName": "芋-檳榔心芋"
+    },
+    {
+      "productCode": "SJ3",
+      "productName": "芋-里芋"
+    },
+    {
+      "productCode": "SJ5",
+      "productName": "芋-芋角"
+    },
+    {
+      "productCode": "SK2",
+      "productName": "荸薺-加工"
+    },
+    {
+      "productCode": "SL1",
+      "productName": "豆薯"
+    },
+    {
+      "productCode": "SM1",
+      "productName": "牛蒡"
+    },
+    {
+      "productCode": "SM9",
+      "productName": "牛蒡-進口"
+    },
+    {
+      "productCode": "SN1",
+      "productName": "蓮藕"
+    },
+    {
+      "productCode": "SO0",
+      "productName": "甘薯-其他"
+    },
+    {
+      "productCode": "SO1",
+      "productName": "甘薯-臺農57號"
+    },
+    {
+      "productCode": "SO2",
+      "productName": "甘薯-芋仔甘薯"
+    },
+    {
+      "productCode": "SO3",
+      "productName": "甘薯-臺農66號"
+    },
+    {
+      "productCode": "SP0",
+      "productName": "薑-其他"
+    },
+    {
+      "productCode": "SP1",
+      "productName": "薑-老薑"
+    },
+    {
+      "productCode": "SP2",
+      "productName": "薑-嫩薑"
+    },
+    {
+      "productCode": "SP3",
+      "productName": "薑-粉薑"
+    },
+    {
+      "productCode": "SP4",
+      "productName": "薑-竹薑"
+    },
+    {
+      "productCode": "SP5",
+      "productName": "薑-薑黃"
+    },
+    {
+      "productCode": "SQ1",
+      "productName": "茭白筍-帶殼"
+    },
+    {
+      "productCode": "SQ3",
+      "productName": "茭白筍-去殼"
+    },
+    {
+      "productCode": "SR1",
+      "productName": "菱角-生菱角"
+    },
+    {
+      "productCode": "SR3",
+      "productName": "菱角-去殼"
+    },
+    {
+      "productCode": "SS1",
+      "productName": "大心菜-帶葉"
+    },
+    {
+      "productCode": "SU2",
+      "productName": "薯蕷-白薯蕷"
+    },
+    {
+      "productCode": "SU3",
+      "productName": "薯蕷-樹薯"
+    },
+    {
+      "productCode": "SU4",
+      "productName": "薯蕷-粉薯"
+    },
+    {
+      "productCode": "SU9",
+      "productName": "薯蕷-進口"
+    },
+    {
+      "productCode": "SV2",
+      "productName": "蘆筍-綠蘆筍"
+    },
+    {
+      "productCode": "SV9",
+      "productName": "蘆筍-進口"
+    },
+    {
+      "productCode": "SW1",
+      "productName": "球莖甘藍"
+    },
+    {
+      "productCode": "SX0",
+      "productName": "芽菜類-其他"
+    },
+    {
+      "productCode": "SX1",
+      "productName": "芽菜類-綠豆芽"
+    },
+    {
+      "productCode": "SX2",
+      "productName": "芽菜類-黃豆芽"
+    },
+    {
+      "productCode": "SX3",
+      "productName": "芽菜類-豌豆芽"
+    },
+    {
+      "productCode": "SX4",
+      "productName": "芽菜類-苜蓿芽"
+    },
+    {
+      "productCode": "SZ1",
+      "productName": "半天筍"
+    },
+    {
+      "productCode": "SZ7",
+      "productName": "晚香玉筍"
+    },
+    {
+      "productCode": "SZ8",
+      "productName": "香茅"
+    },
+    {
+      "productCode": "FE0",
+      "productName": "冬瓜-其他"
+    },
+    {
+      "productCode": "FF2",
+      "productName": "絲瓜-角瓜"
+    },
+    {
+      "productCode": "FI1",
+      "productName": "茄子-胭脂茄"
+    },
+    {
+      "productCode": "FL96",
+      "productName": "豌豆-進口 甜豌豆"
+    },
+    {
+      "productCode": "FP3",
+      "productName": "鵲豆-肉豆"
+    },
+    {
+      "productCode": "FT72",
+      "productName": "南瓜-栗子 小黑"
+    },
+    {
+      "productCode": "FT96",
+      "productName": "南瓜-進口 東昇"
+    },
+    {
+      "productCode": "FU3",
+      "productName": "石蓮花"
+    },
+    {
+      "productCode": "FV3",
+      "productName": "辣椒-雞心"
+    },
+    {
+      "productCode": "FV9",
+      "productName": "辣椒-進口"
+    },
+    {
+      "productCode": "FV91",
+      "productName": "辣椒-進口 紅小"
+    },
+    {
+      "productCode": "FV94",
+      "productName": "辣椒-進口 朝天椒"
+    },
+    {
+      "productCode": "FW2",
+      "productName": "洛神花"
+    },
+    {
+      "productCode": "LA4",
+      "productName": "甘藍-紫色"
+    },
+    {
+      "productCode": "LC5",
+      "productName": "包心白-天津白"
+    },
+    {
+      "productCode": "LI72",
+      "productName": "萵苣菜-綠捲"
+    },
+    {
+      "productCode": "LI92",
+      "productName": "萵苣菜-進口 結球萵"
+    },
+    {
+      "productCode": "LI96",
+      "productName": "萵苣菜-進口 蘿美"
+    },
+    {
+      "productCode": "LM1",
+      "productName": "莧菜-紅莧菜"
+    },
+    {
+      "productCode": "LP3",
+      "productName": "羅勒"
+    },
+    {
+      "productCode": "LZ2",
+      "productName": "藤川七-川七葉"
+    },
+    {
+      "productCode": "ME0",
+      "productName": "金絲菇-其他"
+    },
+    {
+      "productCode": "MF1",
+      "productName": "蠔菇-鮑魚菇"
+    },
+    {
+      "productCode": "MF2",
+      "productName": "蠔菇-盒裝"
+    },
+    {
+      "productCode": "MK0",
+      "productName": "鴻喜菇-其他"
+    },
+    {
+      "productCode": "ML1",
+      "productName": "珊瑚菇"
+    },
+    {
+      "productCode": "ML2",
+      "productName": "珊瑚菇-盒裝"
+    },
+    {
+      "productCode": "OC1",
+      "productName": "榨菜"
+    },
+    {
+      "productCode": "OE2",
+      "productName": "醃瓜-漬"
+    },
+    {
+      "productCode": "OG1",
+      "productName": "熟筍-桂竹筍"
+    },
+    {
+      "productCode": "OI4",
+      "productName": "筍茸"
+    },
+    {
+      "productCode": "OL1",
+      "productName": "朴菜"
+    },
+    {
+      "productCode": "SA4",
+      "productName": "蘿蔔-櫻桃"
+    },
+    {
+      "productCode": "SA9",
+      "productName": "蘿蔔-進口"
+    },
+    {
+      "productCode": "SE4",
+      "productName": "青蔥-珠蔥"
+    },
+    {
+      "productCode": "SG4",
+      "productName": "大蒜-蔥蒜"
+    },
+    {
+      "productCode": "SG9",
+      "productName": "大蒜-進口"
+    },
+    {
+      "productCode": "SH2",
+      "productName": "竹筍-綠竹筍"
+    },
+    {
+      "productCode": "SK1",
+      "productName": "荸薺"
+    },
+    {
+      "productCode": "SU1",
+      "productName": "薯蕷-紅薯蕷"
+    },
+    {
+      "productCode": "SV1",
+      "productName": "蘆筍-白蘆筍"
+    },
+    {
+      "productCode": "SV3",
+      "productName": "蘆筍-蘆筍花"
+    },
+    {
+      "productCode": "SZ3",
+      "productName": "金針筍"
+    },
+    {
+      "productCode": "SZ4",
+      "productName": "百合"
+    },
+    {
+      "productCode": "FK94",
+      "productName": "甜椒-進口 彩色種"
+    },
+    {
+      "productCode": "FT1",
+      "productName": "南瓜-木瓜形"
+    },
+    {
+      "productCode": "FT9",
+      "productName": "南瓜-進口"
+    },
+    {
+      "productCode": "LC91",
+      "productName": "包心白菜-進口 包白"
+    },
+    {
+      "productCode": "LU1",
+      "productName": "菾菜-茄茉菜"
+    },
+    {
+      "productCode": "MC0",
+      "productName": "濕木耳-其他"
+    },
+    {
+      "productCode": "MG1",
+      "productName": "巴西蘑菇"
+    },
+    {
+      "productCode": "FK4",
+      "productName": "甜椒-彩色種"
+    },
+    {
+      "productCode": "FY3",
+      "productName": "玉米-超甜白"
+    },
+    {
+      "productCode": "FY7",
+      "productName": "玉米-糯米白"
+    },
+    {
+      "productCode": "SD1",
+      "productName": "洋蔥-本產"
+    },
+    {
+      "productCode": "SU0",
+      "productName": "薯蕷-其他"
+    },
+    {
+      "productCode": "LF1",
+      "productName": "蕹菜-大葉"
+    },
+    {
+      "productCode": "FG2",
+      "productName": "苦瓜-青大米"
+    },
+    {
+      "productCode": "SH1",
+      "productName": "竹筍-麻竹筍"
+    },
+    {
+      "productCode": "SU21",
+      "productName": "薯蕷-白薯蕷 人參"
+    },
+    {
+      "productCode": "FM1",
+      "productName": "菜豆-白色"
+    },
+    {
+      "productCode": "SA32",
+      "productName": "蘿蔔-矸仔"
+    },
+    {
+      "productCode": "FX1",
+      "productName": "花豆"
+    },
+    {
+      "productCode": "LB0",
+      "productName": "小白菜-其他"
+    },
+    {
+      "productCode": "OA1",
+      "productName": "鹹菜-清心"
+    },
+    {
+      "productCode": "OH1",
+      "productName": "桶筍-麻竹筍"
+    },
+    {
+      "productCode": "OH2",
+      "productName": "桶筍-綠竹筍"
+    },
+    {
+      "productCode": "OH3",
+      "productName": "桶筍-桂竹筍"
+    },
+    {
+      "productCode": "OH4",
+      "productName": "桶筍-箭竹筍"
+    },
+    {
+      "productCode": "OI1",
+      "productName": "筍乾"
+    },
+    {
+      "productCode": "OI2",
+      "productName": "筍絲"
+    },
+    {
+      "productCode": "OI3",
+      "productName": "筍片"
+    },
+    {
+      "productCode": "FB2",
+      "productName": "花椰菜-白梗"
+    },
+    {
+      "productCode": "FH1",
+      "productName": "扁蒲-長形"
+    },
+    {
+      "productCode": "OE1",
+      "productName": "醃瓜-乾"
+    },
+    {
+      "productCode": "FJ0",
+      "productName": "番茄-其他"
+    },
+    {
+      "productCode": "FV5",
+      "productName": "辣椒-青龍"
+    },
+    {
+      "productCode": "LA9",
+      "productName": "甘藍-進口"
+    },
+    {
+      "productCode": "LG1",
+      "productName": "芹菜-青梗"
+    },
+    {
+      "productCode": "LT1",
+      "productName": "海菜-龍鬚菜"
+    },
+    {
+      "productCode": "SA1",
+      "productName": "蘿蔔-梅花"
+    },
+    {
+      "productCode": "SE3",
+      "productName": "青蔥-大蔥"
+    },
+    {
+      "productCode": "SG1",
+      "productName": "大蒜-硬梗"
+    },
+    {
+      "productCode": "FC2",
+      "productName": "胡瓜-改良種"
+    },
+    {
+      "productCode": "FY2",
+      "productName": "玉米-甜硬殼"
+    },
+    {
+      "productCode": "LA0",
+      "productName": "甘藍-其他"
+    },
+    {
+      "productCode": "LC2",
+      "productName": "包心白-成功白"
+    },
+    {
+      "productCode": "SJ4",
+      "productName": "芋-芋莖"
+    },
+    {
+      "productCode": "FM3",
+      "productName": "菜豆-紅色"
+    },
+    {
+      "productCode": "FS2",
+      "productName": "越瓜-白色"
+    },
+    {
+      "productCode": "FT90",
+      "productName": "南瓜-進口 其他"
+    },
+    {
+      "productCode": "SN2",
+      "productName": "蓮藕-蓮子"
+    },
+    {
+      "productCode": "SV92",
+      "productName": "蘆筍-進口 綠蘆筍"
+    },
+    {
+      "productCode": "FB0",
+      "productName": "花椰菜-其他"
+    },
+    {
+      "productCode": "FL3",
+      "productName": "豌豆-豆莢"
+    },
+    {
+      "productCode": "FP2",
+      "productName": "萊豆-豆仁"
+    },
+    {
+      "productCode": "FT71",
+      "productName": "南瓜-栗子 小紅"
+    },
+    {
+      "productCode": "LC6",
+      "productName": "包心白-冬白芽"
+    },
+    {
+      "productCode": "LL0",
+      "productName": "茼蒿-其他"
+    },
+    {
+      "productCode": "MN2",
+      "productName": "柳松菇-盒裝"
+    },
+    {
+      "productCode": "SJ1",
+      "productName": "芋-麵芋"
+    },
+    {
+      "productCode": "LA92",
+      "productName": "甘藍-進口 改良種"
+    },
+    {
+      "productCode": "FX2",
+      "productName": "虎豆-福豆"
+    },
+    {
+      "productCode": "LG4",
+      "productName": "芹菜-山芹菜"
+    },
+    {
+      "productCode": "SS0",
+      "productName": "大心菜-其他"
+    },
+    {
+      "productCode": "FF4",
+      "productName": "絲瓜-長絲瓜"
+    }
+  ]
+}

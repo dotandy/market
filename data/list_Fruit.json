@@ -1,0 +1,517 @@
+{
+  "date": "114/12/06",
+  "data": [
+    {
+      "productCode": "11",
+      "productName": "椰子"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種"
+    },
+    {
+      "productCode": "70",
+      "productName": "小番茄-其他"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口"
+    },
+    {
+      "productCode": "859",
+      "productName": "榴槤-進口"
+    },
+    {
+      "productCode": "87",
+      "productName": "紅毛丹"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他"
+    },
+    {
+      "productCode": "919",
+      "productName": "其他-進口"
+    },
+    {
+      "productCode": "A0",
+      "productName": "香蕉-其他"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑"
+    },
+    {
+      "productCode": "C9",
+      "productName": "柑橘-進口"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙"
+    },
+    {
+      "productCode": "E3",
+      "productName": "甜橙-紅肉柳橙"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬"
+    },
+    {
+      "productCode": "F9",
+      "productName": "雜柑-進口"
+    },
+    {
+      "productCode": "G1",
+      "productName": "蛋黃果-仙桃"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口"
+    },
+    {
+      "productCode": "G7",
+      "productName": "橄欖"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子"
+    },
+    {
+      "productCode": "H2",
+      "productName": "柚子-白柚"
+    },
+    {
+      "productCode": "H4",
+      "productName": "葡萄柚-紅肉"
+    },
+    {
+      "productCode": "H6",
+      "productName": "柚子-西施柚"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜"
+    },
+    {
+      "productCode": "K4",
+      "productName": "龍眼-龍眼乾帶殼"
+    },
+    {
+      "productCode": "M3",
+      "productName": "楊桃-馬來亞種"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨"
+    },
+    {
+      "productCode": "O4",
+      "productName": "梨-新興梨"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧"
+    },
+    {
+      "productCode": "Q5",
+      "productName": "蓮霧-黑糖芭比"
+    },
+    {
+      "productCode": "R8",
+      "productName": "芒果-芒果青"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口"
+    },
+    {
+      "productCode": "T0",
+      "productName": "西瓜-其他"
+    },
+    {
+      "productCode": "T5",
+      "productName": "西瓜-黃肉"
+    },
+    {
+      "productCode": "T8",
+      "productName": "西瓜-甜美人"
+    },
+    {
+      "productCode": "V1",
+      "productName": "甜瓜-美濃"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉"
+    },
+    {
+      "productCode": "W8",
+      "productName": "洋香瓜-阿露斯"
+    },
+    {
+      "productCode": "W9",
+      "productName": "洋香瓜-進口"
+    },
+    {
+      "productCode": "X3",
+      "productName": "蘋果-惠"
+    },
+    {
+      "productCode": "X49",
+      "productName": "蘋果-金冠進口"
+    },
+    {
+      "productCode": "X59",
+      "productName": "蘋果-紅玉進口"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅"
+    },
+    {
+      "productCode": "Z39",
+      "productName": "柿子-柿餅進口"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿"
+    },
+    {
+      "productCode": "Z5",
+      "productName": "柿子-筆柿"
+    },
+    {
+      "productCode": "Z9",
+      "productName": "柿子-進口"
+    },
+    {
+      "productCode": "A3",
+      "productName": "香蕉-旦蕉"
+    },
+    {
+      "productCode": "C4",
+      "productName": "紅柑-美女柑"
+    },
+    {
+      "productCode": "C7",
+      "productName": "豔陽柑"
+    },
+    {
+      "productCode": "D2",
+      "productName": "海梨柑"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口"
+    },
+    {
+      "productCode": "F6",
+      "productName": "雜柑-黃金檸檬"
+    },
+    {
+      "productCode": "G39",
+      "productName": "酪梨-進口"
+    },
+    {
+      "productCode": "H41",
+      "productName": "葡萄柚-紅寶石"
+    },
+    {
+      "productCode": "P0",
+      "productName": "番石榴-其他"
+    },
+    {
+      "productCode": "P5",
+      "productName": "番石榴-水晶無子"
+    },
+    {
+      "productCode": "Q2",
+      "productName": "蓮霧-子彈型"
+    },
+    {
+      "productCode": "R0",
+      "productName": "芒果-其他"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜"
+    },
+    {
+      "productCode": "V2",
+      "productName": "甜瓜-溫室吊瓜"
+    },
+    {
+      "productCode": "K41",
+      "productName": "龍眼-龍眼肉"
+    },
+    {
+      "productCode": "M2",
+      "productName": "楊桃-紅龍"
+    },
+    {
+      "productCode": "X09",
+      "productName": "蘋果-其他進口"
+    },
+    {
+      "productCode": "129",
+      "productName": "椰子-剝殼進口"
+    },
+    {
+      "productCode": "71",
+      "productName": "小番茄-ㄧ般"
+    },
+    {
+      "productCode": "B9",
+      "productName": "鳳梨-進口"
+    },
+    {
+      "productCode": "C2",
+      "productName": "茂谷柑"
+    },
+    {
+      "productCode": "G9",
+      "productName": "波蘿蜜"
+    },
+    {
+      "productCode": "Y9",
+      "productName": "桃子-進口"
+    },
+    {
+      "productCode": "Z1",
+      "productName": "柿子-紅柿"
+    },
+    {
+      "productCode": "Z6",
+      "productName": "柿子-秋柿"
+    },
+    {
+      "productCode": "W7",
+      "productName": "洋香瓜-光面白肉"
+    },
+    {
+      "productCode": "12",
+      "productName": "椰子-剝殼"
+    },
+    {
+      "productCode": "B8",
+      "productName": "鳳梨-西瓜鳳梨"
+    },
+    {
+      "productCode": "G4",
+      "productName": "奇異果"
+    },
+    {
+      "productCode": "H0",
+      "productName": "柚子-其他"
+    },
+    {
+      "productCode": "O0",
+      "productName": "梨-其他"
+    },
+    {
+      "productCode": "Z2",
+      "productName": "柿子-水柿"
+    },
+    {
+      "productCode": "T3",
+      "productName": "西瓜-黑美人"
+    },
+    {
+      "productCode": "W5",
+      "productName": "洋香瓜-光面紅肉"
+    },
+    {
+      "productCode": "F0",
+      "productName": "雜柑-其他"
+    },
+    {
+      "productCode": "V0",
+      "productName": "甜瓜-其他"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市"
+    },
+    {
+      "productCode": "61",
+      "productName": "甘蔗-帶皮"
+    },
+    {
+      "productCode": "D1",
+      "productName": "桶柑"
+    },
+    {
+      "productCode": "H49",
+      "productName": "葡萄柚-紅肉進口"
+    },
+    {
+      "productCode": "Q0",
+      "productName": "蓮霧-其他"
+    },
+    {
+      "productCode": "Q3",
+      "productName": "蓮霧-翠玉"
+    },
+    {
+      "productCode": "Q4",
+      "productName": "蓮霧-巴掌蓮霧"
+    },
+    {
+      "productCode": "K2",
+      "productName": "龍眼-十月眼"
+    },
+    {
+      "productCode": "X0",
+      "productName": "蘋果-其他"
+    }
+  ]
+}

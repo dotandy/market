@@ -1,0 +1,5826 @@
+{
+  "date": "114/12/06",
+  "scrapedAt": "2025-12-06",
+  "data": [
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "17.2",
+      "middlePrice": "14.6",
+      "lowerPrice": "13",
+      "averagePrice": "14.8",
+      "transactionVolume": "550",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子",
+      "upperPrice": "172.1",
+      "middlePrice": "109.4",
+      "lowerPrice": "88.2",
+      "averagePrice": "117.7",
+      "transactionVolume": "486",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "175.4",
+      "middlePrice": "118.4",
+      "lowerPrice": "79.4",
+      "averagePrice": "122",
+      "transactionVolume": "261",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦",
+      "upperPrice": "100",
+      "middlePrice": "87.5",
+      "lowerPrice": "75.2",
+      "averagePrice": "87.5",
+      "transactionVolume": "346",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓",
+      "upperPrice": "334",
+      "middlePrice": "233",
+      "lowerPrice": "84.9",
+      "averagePrice": "223.6",
+      "transactionVolume": "318",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口",
+      "upperPrice": "912.8",
+      "middlePrice": "563",
+      "lowerPrice": "454",
+      "averagePrice": "611.1",
+      "transactionVolume": "105",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "209.5",
+      "middlePrice": "154.9",
+      "lowerPrice": "109.2",
+      "averagePrice": "156.7",
+      "transactionVolume": "1893",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "118.9",
+      "middlePrice": "84.9",
+      "lowerPrice": "53.3",
+      "averagePrice": "85.4",
+      "transactionVolume": "292",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "161",
+      "middlePrice": "64.2",
+      "lowerPrice": "38.9",
+      "averagePrice": "78.5",
+      "transactionVolume": "3056",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "70",
+      "productName": "小番茄-其他",
+      "upperPrice": "183.5",
+      "middlePrice": "114.4",
+      "lowerPrice": "72.8",
+      "averagePrice": "119.9",
+      "transactionVolume": "1680",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "147.8",
+      "middlePrice": "105.2",
+      "lowerPrice": "66.9",
+      "averagePrice": "106",
+      "transactionVolume": "1949",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "407.3",
+      "middlePrice": "228.2",
+      "lowerPrice": "142.8",
+      "averagePrice": "246.9",
+      "transactionVolume": "1656",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "126.5",
+      "middlePrice": "106.2",
+      "lowerPrice": "87.6",
+      "averagePrice": "106.5",
+      "transactionVolume": "1146",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "123.2",
+      "middlePrice": "98.5",
+      "lowerPrice": "63.7",
+      "averagePrice": "96.4",
+      "transactionVolume": "2462",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "563.6",
+      "middlePrice": "355.2",
+      "lowerPrice": "251.2",
+      "averagePrice": "376",
+      "transactionVolume": "1426",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口",
+      "upperPrice": "367",
+      "middlePrice": "93.3",
+      "lowerPrice": "93.3",
+      "averagePrice": "148.1",
+      "transactionVolume": "260",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "859",
+      "productName": "榴槤-進口",
+      "upperPrice": "118.5",
+      "middlePrice": "118.5",
+      "lowerPrice": "118.5",
+      "averagePrice": "118.5",
+      "transactionVolume": "450",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "87",
+      "productName": "紅毛丹",
+      "upperPrice": "170",
+      "middlePrice": "170",
+      "lowerPrice": "170",
+      "averagePrice": "170",
+      "transactionVolume": "4",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "295.1",
+      "middlePrice": "89.4",
+      "lowerPrice": "10",
+      "averagePrice": "114.7",
+      "transactionVolume": "47",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "919",
+      "productName": "其他-進口",
+      "upperPrice": "200",
+      "middlePrice": "188.9",
+      "lowerPrice": "166.7",
+      "averagePrice": "186.7",
+      "transactionVolume": "45",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A0",
+      "productName": "香蕉-其他",
+      "upperPrice": "20",
+      "middlePrice": "20",
+      "lowerPrice": "20",
+      "averagePrice": "20",
+      "transactionVolume": "15",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "59.1",
+      "middlePrice": "46",
+      "lowerPrice": "34.2",
+      "averagePrice": "46.3",
+      "transactionVolume": "7839",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "91.7",
+      "middlePrice": "56.4",
+      "lowerPrice": "27.5",
+      "averagePrice": "57.7",
+      "transactionVolume": "1257",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A3",
+      "productName": "香蕉-旦蕉",
+      "upperPrice": "90",
+      "middlePrice": "90",
+      "lowerPrice": "90",
+      "averagePrice": "90",
+      "transactionVolume": "30",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦",
+      "upperPrice": "61.1",
+      "middlePrice": "43.7",
+      "lowerPrice": "22.9",
+      "averagePrice": "43",
+      "transactionVolume": "143",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "54",
+      "middlePrice": "47",
+      "lowerPrice": "40.8",
+      "averagePrice": "47.2",
+      "transactionVolume": "1734",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他",
+      "upperPrice": "140",
+      "middlePrice": "125",
+      "lowerPrice": "55",
+      "averagePrice": "114",
+      "transactionVolume": "100",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "59",
+      "middlePrice": "38.9",
+      "lowerPrice": "20.8",
+      "averagePrice": "39.3",
+      "transactionVolume": "42621",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C2",
+      "productName": "茂谷柑",
+      "upperPrice": "20",
+      "middlePrice": "20",
+      "lowerPrice": "20",
+      "averagePrice": "20",
+      "transactionVolume": "9",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "71.1",
+      "middlePrice": "38.6",
+      "lowerPrice": "23.7",
+      "averagePrice": "42.1",
+      "transactionVolume": "4438",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "83.4",
+      "middlePrice": "49.2",
+      "lowerPrice": "28.1",
+      "averagePrice": "51.8",
+      "transactionVolume": "1002",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C9",
+      "productName": "柑橘-進口",
+      "upperPrice": "492.3",
+      "middlePrice": "444.5",
+      "lowerPrice": "444.5",
+      "averagePrice": "454",
+      "transactionVolume": "79",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他",
+      "upperPrice": "28.7",
+      "middlePrice": "18.2",
+      "lowerPrice": "10",
+      "averagePrice": "18.7",
+      "transactionVolume": "326",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "53.2",
+      "middlePrice": "40.3",
+      "lowerPrice": "28.4",
+      "averagePrice": "40.5",
+      "transactionVolume": "5763",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E3",
+      "productName": "甜橙-紅肉柳橙",
+      "upperPrice": "53",
+      "middlePrice": "53",
+      "lowerPrice": "43",
+      "averagePrice": "51",
+      "transactionVolume": "180",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "60",
+      "middlePrice": "28.7",
+      "lowerPrice": "22.2",
+      "averagePrice": "33.7",
+      "transactionVolume": "990",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F0",
+      "productName": "雜柑-其他",
+      "upperPrice": "50",
+      "middlePrice": "50",
+      "lowerPrice": "50",
+      "averagePrice": "50",
+      "transactionVolume": "84",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "92.1",
+      "middlePrice": "51.2",
+      "lowerPrice": "40",
+      "averagePrice": "57.1",
+      "transactionVolume": "122",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗",
+      "upperPrice": "89.1",
+      "middlePrice": "72.7",
+      "lowerPrice": "70",
+      "averagePrice": "75.4",
+      "transactionVolume": "132",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "150",
+      "middlePrice": "76",
+      "lowerPrice": "23.8",
+      "averagePrice": "80.4",
+      "transactionVolume": "80",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "126.8",
+      "middlePrice": "105.9",
+      "lowerPrice": "78.7",
+      "averagePrice": "104.6",
+      "transactionVolume": "1455",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F6",
+      "productName": "雜柑-黃金檸檬",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "24",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F9",
+      "productName": "雜柑-進口",
+      "upperPrice": "466.7",
+      "middlePrice": "465",
+      "lowerPrice": "366.8",
+      "averagePrice": "445.6",
+      "transactionVolume": "19",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "136.4",
+      "middlePrice": "100.9",
+      "lowerPrice": "70.2",
+      "averagePrice": "101.9",
+      "transactionVolume": "466",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "158",
+      "middlePrice": "93.6",
+      "lowerPrice": "69.3",
+      "averagePrice": "101.7",
+      "transactionVolume": "1180",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "122.2",
+      "middlePrice": "93.5",
+      "lowerPrice": "66.7",
+      "averagePrice": "93.8",
+      "transactionVolume": "1486",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G7",
+      "productName": "橄欖",
+      "upperPrice": "42",
+      "middlePrice": "41.4",
+      "lowerPrice": "40",
+      "averagePrice": "41.2",
+      "transactionVolume": "65",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "65",
+      "middlePrice": "60.5",
+      "lowerPrice": "45",
+      "averagePrice": "58.3",
+      "transactionVolume": "698",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H2",
+      "productName": "柚子-白柚",
+      "upperPrice": "12",
+      "middlePrice": "9.7",
+      "lowerPrice": "7",
+      "averagePrice": "9.6",
+      "transactionVolume": "221",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H4",
+      "productName": "葡萄柚-紅肉",
+      "upperPrice": "32",
+      "middlePrice": "30.2",
+      "lowerPrice": "26.8",
+      "averagePrice": "29.9",
+      "transactionVolume": "176",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "84.8",
+      "middlePrice": "62.8",
+      "lowerPrice": "47.1",
+      "averagePrice": "64",
+      "transactionVolume": "8094",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種",
+      "upperPrice": "131.7",
+      "middlePrice": "94",
+      "lowerPrice": "57.2",
+      "averagePrice": "94.2",
+      "transactionVolume": "108",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "34",
+      "middlePrice": "26.1",
+      "lowerPrice": "19.2",
+      "averagePrice": "26.3",
+      "transactionVolume": "1210",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K4",
+      "productName": "龍眼-龍眼乾帶殼",
+      "upperPrice": "233",
+      "middlePrice": "175.7",
+      "lowerPrice": "101.5",
+      "averagePrice": "172.3",
+      "transactionVolume": "94",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K41",
+      "productName": "龍眼-龍眼肉",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "20",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "113.9",
+      "middlePrice": "94.9",
+      "lowerPrice": "75.6",
+      "averagePrice": "94.8",
+      "transactionVolume": "1862",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O4",
+      "productName": "梨-新興梨",
+      "upperPrice": "7",
+      "middlePrice": "7",
+      "lowerPrice": "7",
+      "averagePrice": "7",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "71.5",
+      "middlePrice": "56.6",
+      "lowerPrice": "44.4",
+      "averagePrice": "57.1",
+      "transactionVolume": "710",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "78.2",
+      "middlePrice": "52.9",
+      "lowerPrice": "29.6",
+      "averagePrice": "53.3",
+      "transactionVolume": "3889",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P0",
+      "productName": "番石榴-其他",
+      "upperPrice": "60",
+      "middlePrice": "60",
+      "lowerPrice": "60",
+      "averagePrice": "60",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "124.9",
+      "middlePrice": "89.8",
+      "lowerPrice": "60.4",
+      "averagePrice": "90.9",
+      "transactionVolume": "9843",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心",
+      "upperPrice": "123.1",
+      "middlePrice": "75.6",
+      "lowerPrice": "35.6",
+      "averagePrice": "77.1",
+      "transactionVolume": "382",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "156.1",
+      "middlePrice": "108.3",
+      "lowerPrice": "63.2",
+      "averagePrice": "108.8",
+      "transactionVolume": "2604",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "236.9",
+      "middlePrice": "147.5",
+      "lowerPrice": "77.1",
+      "averagePrice": "151.3",
+      "transactionVolume": "3299",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q2",
+      "productName": "蓮霧-子彈型",
+      "upperPrice": "137.5",
+      "middlePrice": "98.7",
+      "lowerPrice": "51.3",
+      "averagePrice": "97",
+      "transactionVolume": "252",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q5",
+      "productName": "蓮霧-黑糖芭比",
+      "upperPrice": "352.3",
+      "middlePrice": "213.1",
+      "lowerPrice": "125.8",
+      "averagePrice": "223.4",
+      "transactionVolume": "319",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R8",
+      "productName": "芒果-芒果青",
+      "upperPrice": "95",
+      "middlePrice": "88.7",
+      "lowerPrice": "40",
+      "averagePrice": "80.2",
+      "transactionVolume": "89",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "118.7",
+      "middlePrice": "80.2",
+      "lowerPrice": "56.9",
+      "averagePrice": "83.2",
+      "transactionVolume": "2323",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "174.3",
+      "middlePrice": "110.8",
+      "lowerPrice": "96.2",
+      "averagePrice": "120.6",
+      "transactionVolume": "4440",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T0",
+      "productName": "西瓜-其他",
+      "upperPrice": "70",
+      "middlePrice": "65.8",
+      "lowerPrice": "55",
+      "averagePrice": "64.4",
+      "transactionVolume": "82",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V0",
+      "productName": "甜瓜-其他",
+      "upperPrice": "150",
+      "middlePrice": "148",
+      "lowerPrice": "145",
+      "averagePrice": "147.8",
+      "transactionVolume": "18",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V2",
+      "productName": "甜瓜-溫室吊瓜",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "18",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "72.7",
+      "middlePrice": "60",
+      "lowerPrice": "42.5",
+      "averagePrice": "59.1",
+      "transactionVolume": "1013",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉",
+      "upperPrice": "61.1",
+      "middlePrice": "50.4",
+      "lowerPrice": "42",
+      "averagePrice": "50.9",
+      "transactionVolume": "326",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "81.6",
+      "middlePrice": "56.6",
+      "lowerPrice": "30.9",
+      "averagePrice": "56.4",
+      "transactionVolume": "3675",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "120",
+      "middlePrice": "115.5",
+      "lowerPrice": "104.7",
+      "averagePrice": "114.2",
+      "transactionVolume": "156",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W8",
+      "productName": "洋香瓜-阿露斯",
+      "upperPrice": "95",
+      "middlePrice": "84.4",
+      "lowerPrice": "50.6",
+      "averagePrice": "79.8",
+      "transactionVolume": "384",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W9",
+      "productName": "洋香瓜-進口",
+      "upperPrice": "300",
+      "middlePrice": "300",
+      "lowerPrice": "300",
+      "averagePrice": "300",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X3",
+      "productName": "蘋果-惠",
+      "upperPrice": "88.1",
+      "middlePrice": "70.6",
+      "lowerPrice": "60",
+      "averagePrice": "72",
+      "transactionVolume": "386",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "157.7",
+      "middlePrice": "45.9",
+      "lowerPrice": "34.6",
+      "averagePrice": "66",
+      "transactionVolume": "16991",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "80",
+      "middlePrice": "71",
+      "lowerPrice": "60",
+      "averagePrice": "70.6",
+      "transactionVolume": "224",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z39",
+      "productName": "柿子-柿餅進口",
+      "upperPrice": "928.5",
+      "middlePrice": "486.2",
+      "lowerPrice": "400",
+      "averagePrice": "557.4",
+      "transactionVolume": "47",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "200.2",
+      "middlePrice": "120.2",
+      "lowerPrice": "72.9",
+      "averagePrice": "126.7",
+      "transactionVolume": "6330",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z9",
+      "productName": "柿子-進口",
+      "upperPrice": "634.6",
+      "middlePrice": "400",
+      "lowerPrice": "400",
+      "averagePrice": "446.9",
+      "transactionVolume": "135",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市",
+      "upperPrice": "0",
+      "middlePrice": "0",
+      "lowerPrice": "0",
+      "averagePrice": "0",
+      "transactionVolume": "0",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "15.9",
+      "middlePrice": "15",
+      "lowerPrice": "14.3",
+      "averagePrice": "15",
+      "transactionVolume": "486",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "129",
+      "productName": "椰子-剝殼進口",
+      "upperPrice": "41.7",
+      "middlePrice": "41.7",
+      "lowerPrice": "41.7",
+      "averagePrice": "41.7",
+      "transactionVolume": "40",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子",
+      "upperPrice": "181.2",
+      "middlePrice": "158",
+      "lowerPrice": "115.6",
+      "averagePrice": "154.1",
+      "transactionVolume": "1221",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "167",
+      "middlePrice": "121.4",
+      "lowerPrice": "91.2",
+      "averagePrice": "124.5",
+      "transactionVolume": "738",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦",
+      "upperPrice": "102.8",
+      "middlePrice": "94.1",
+      "lowerPrice": "78.9",
+      "averagePrice": "92.8",
+      "transactionVolume": "913",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓",
+      "upperPrice": "398.5",
+      "middlePrice": "255.7",
+      "lowerPrice": "117",
+      "averagePrice": "256.5",
+      "transactionVolume": "215",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口",
+      "upperPrice": "777.8",
+      "middlePrice": "566.5",
+      "lowerPrice": "298.5",
+      "averagePrice": "555.1",
+      "transactionVolume": "373",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "180.1",
+      "middlePrice": "147.9",
+      "lowerPrice": "49.8",
+      "averagePrice": "134.7",
+      "transactionVolume": "1466",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "81.8",
+      "middlePrice": "73.7",
+      "lowerPrice": "51",
+      "averagePrice": "70.8",
+      "transactionVolume": "100",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "152.4",
+      "middlePrice": "65.9",
+      "lowerPrice": "45.7",
+      "averagePrice": "79.2",
+      "transactionVolume": "5260",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "61",
+      "productName": "甘蔗-帶皮",
+      "upperPrice": "13",
+      "middlePrice": "10.5",
+      "lowerPrice": "8",
+      "averagePrice": "10.5",
+      "transactionVolume": "3000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "70",
+      "productName": "小番茄-其他",
+      "upperPrice": "114.3",
+      "middlePrice": "96.8",
+      "lowerPrice": "70.9",
+      "averagePrice": "95.1",
+      "transactionVolume": "780",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "168.3",
+      "middlePrice": "112.5",
+      "lowerPrice": "67.8",
+      "averagePrice": "114.7",
+      "transactionVolume": "9341",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "414.1",
+      "middlePrice": "258.3",
+      "lowerPrice": "133.8",
+      "averagePrice": "264.5",
+      "transactionVolume": "1685",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "121.1",
+      "middlePrice": "102.6",
+      "lowerPrice": "83.2",
+      "averagePrice": "102.4",
+      "transactionVolume": "1942",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "129.6",
+      "middlePrice": "111.6",
+      "lowerPrice": "64.4",
+      "averagePrice": "105.8",
+      "transactionVolume": "1981",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "360",
+      "middlePrice": "301",
+      "lowerPrice": "210.2",
+      "averagePrice": "294.7",
+      "transactionVolume": "877",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口",
+      "upperPrice": "166.7",
+      "middlePrice": "166.7",
+      "lowerPrice": "166.7",
+      "averagePrice": "166.7",
+      "transactionVolume": "120",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "87",
+      "productName": "紅毛丹",
+      "upperPrice": "230",
+      "middlePrice": "230",
+      "lowerPrice": "230",
+      "averagePrice": "230",
+      "transactionVolume": "7",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "100",
+      "middlePrice": "78.1",
+      "lowerPrice": "60",
+      "averagePrice": "78.9",
+      "transactionVolume": "890",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "919",
+      "productName": "其他-進口",
+      "upperPrice": "186.7",
+      "middlePrice": "118.4",
+      "lowerPrice": "88.9",
+      "averagePrice": "126.1",
+      "transactionVolume": "315",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A0",
+      "productName": "香蕉-其他",
+      "upperPrice": "15",
+      "middlePrice": "15",
+      "lowerPrice": "15",
+      "averagePrice": "15",
+      "transactionVolume": "60",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "53.6",
+      "middlePrice": "42.4",
+      "lowerPrice": "33.7",
+      "averagePrice": "42.9",
+      "transactionVolume": "10840",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "75.1",
+      "middlePrice": "34.4",
+      "lowerPrice": "21.9",
+      "averagePrice": "40",
+      "transactionVolume": "1470",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A3",
+      "productName": "香蕉-旦蕉",
+      "upperPrice": "100",
+      "middlePrice": "78.8",
+      "lowerPrice": "30",
+      "averagePrice": "73.2",
+      "transactionVolume": "200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦",
+      "upperPrice": "50",
+      "middlePrice": "44.7",
+      "lowerPrice": "26.4",
+      "averagePrice": "42.1",
+      "transactionVolume": "157",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "59.3",
+      "middlePrice": "31.7",
+      "lowerPrice": "12.6",
+      "averagePrice": "33.4",
+      "transactionVolume": "4808",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他",
+      "upperPrice": "123.6",
+      "middlePrice": "20.6",
+      "lowerPrice": "10",
+      "averagePrice": "39.1",
+      "transactionVolume": "284",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "61.7",
+      "middlePrice": "39.9",
+      "lowerPrice": "21.4",
+      "averagePrice": "40.6",
+      "transactionVolume": "51993",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C2",
+      "productName": "茂谷柑",
+      "upperPrice": "29.5",
+      "middlePrice": "19.3",
+      "lowerPrice": "15",
+      "averagePrice": "20.5",
+      "transactionVolume": "287",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "56.2",
+      "middlePrice": "43",
+      "lowerPrice": "27",
+      "averagePrice": "42.5",
+      "transactionVolume": "2060",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C7",
+      "productName": "豔陽柑",
+      "upperPrice": "40",
+      "middlePrice": "28.3",
+      "lowerPrice": "25",
+      "averagePrice": "30",
+      "transactionVolume": "108",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "128.2",
+      "middlePrice": "66.5",
+      "lowerPrice": "41.5",
+      "averagePrice": "73.8",
+      "transactionVolume": "3168",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C9",
+      "productName": "柑橘-進口",
+      "upperPrice": "313.8",
+      "middlePrice": "109.3",
+      "lowerPrice": "37",
+      "averagePrice": "135.8",
+      "transactionVolume": "707",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "D1",
+      "productName": "桶柑",
+      "upperPrice": "30",
+      "middlePrice": "27.5",
+      "lowerPrice": "25",
+      "averagePrice": "27.5",
+      "transactionVolume": "64",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "50",
+      "middlePrice": "34.9",
+      "lowerPrice": "20",
+      "averagePrice": "34.9",
+      "transactionVolume": "11857",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E3",
+      "productName": "甜橙-紅肉柳橙",
+      "upperPrice": "41.3",
+      "middlePrice": "31.6",
+      "lowerPrice": "23.7",
+      "averagePrice": "31.9",
+      "transactionVolume": "1395",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "26.4",
+      "middlePrice": "22.2",
+      "lowerPrice": "22.2",
+      "averagePrice": "23.1",
+      "transactionVolume": "795",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F0",
+      "productName": "雜柑-其他",
+      "upperPrice": "25",
+      "middlePrice": "23",
+      "lowerPrice": "21",
+      "averagePrice": "23",
+      "transactionVolume": "95",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "120.3",
+      "middlePrice": "79.9",
+      "lowerPrice": "41.4",
+      "averagePrice": "80.3",
+      "transactionVolume": "1984",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗",
+      "upperPrice": "93.9",
+      "middlePrice": "71.5",
+      "lowerPrice": "55",
+      "averagePrice": "72.7",
+      "transactionVolume": "155",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "99.7",
+      "middlePrice": "78.2",
+      "lowerPrice": "52.1",
+      "averagePrice": "77.3",
+      "transactionVolume": "478",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "129.6",
+      "middlePrice": "93.6",
+      "lowerPrice": "56.8",
+      "averagePrice": "93.5",
+      "transactionVolume": "2652",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F9",
+      "productName": "雜柑-進口",
+      "upperPrice": "333.3",
+      "middlePrice": "333.3",
+      "lowerPrice": "333.3",
+      "averagePrice": "333.3",
+      "transactionVolume": "16",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G1",
+      "productName": "蛋黃果-仙桃",
+      "upperPrice": "30",
+      "middlePrice": "26.7",
+      "lowerPrice": "25",
+      "averagePrice": "27",
+      "transactionVolume": "25",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "130.4",
+      "middlePrice": "81.8",
+      "lowerPrice": "54.8",
+      "averagePrice": "86.1",
+      "transactionVolume": "672",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "126",
+      "middlePrice": "104.2",
+      "lowerPrice": "77.9",
+      "averagePrice": "103.3",
+      "transactionVolume": "1647",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G39",
+      "productName": "酪梨-進口",
+      "upperPrice": "133.3",
+      "middlePrice": "133.3",
+      "lowerPrice": "133.3",
+      "averagePrice": "133.3",
+      "transactionVolume": "50",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "135.6",
+      "middlePrice": "111.1",
+      "lowerPrice": "99.1",
+      "averagePrice": "113.6",
+      "transactionVolume": "1707",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G7",
+      "productName": "橄欖",
+      "upperPrice": "55.6",
+      "middlePrice": "31.4",
+      "lowerPrice": "17.5",
+      "averagePrice": "33.4",
+      "transactionVolume": "166",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "60",
+      "middlePrice": "56.2",
+      "lowerPrice": "50",
+      "averagePrice": "55.7",
+      "transactionVolume": "658",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H2",
+      "productName": "柚子-白柚",
+      "upperPrice": "42",
+      "middlePrice": "41.4",
+      "lowerPrice": "34.4",
+      "averagePrice": "40.1",
+      "transactionVolume": "407",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H41",
+      "productName": "葡萄柚-紅寶石",
+      "upperPrice": "35",
+      "middlePrice": "33.1",
+      "lowerPrice": "27.6",
+      "averagePrice": "32.4",
+      "transactionVolume": "218",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H49",
+      "productName": "葡萄柚-紅肉進口",
+      "upperPrice": "37",
+      "middlePrice": "37",
+      "lowerPrice": "37",
+      "averagePrice": "37",
+      "transactionVolume": "90",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "71.7",
+      "middlePrice": "59.6",
+      "lowerPrice": "45.6",
+      "averagePrice": "59.2",
+      "transactionVolume": "12141",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種",
+      "upperPrice": "157.9",
+      "middlePrice": "87.1",
+      "lowerPrice": "52.7",
+      "averagePrice": "94.3",
+      "transactionVolume": "912",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "33.3",
+      "middlePrice": "24.9",
+      "lowerPrice": "15.1",
+      "averagePrice": "24.6",
+      "transactionVolume": "1682",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K4",
+      "productName": "龍眼-龍眼乾帶殼",
+      "upperPrice": "211",
+      "middlePrice": "124.3",
+      "lowerPrice": "102.2",
+      "averagePrice": "137.2",
+      "transactionVolume": "259",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "M2",
+      "productName": "楊桃-紅龍",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "30",
+      "averagePrice": "30",
+      "transactionVolume": "244",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "102.9",
+      "middlePrice": "87.5",
+      "lowerPrice": "59.5",
+      "averagePrice": "85",
+      "transactionVolume": "1549",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "60.2",
+      "middlePrice": "52.2",
+      "lowerPrice": "44.4",
+      "averagePrice": "52.3",
+      "transactionVolume": "3595",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "61.8",
+      "middlePrice": "47.4",
+      "lowerPrice": "29.8",
+      "averagePrice": "46.8",
+      "transactionVolume": "6861",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P0",
+      "productName": "番石榴-其他",
+      "upperPrice": "130",
+      "middlePrice": "98.9",
+      "lowerPrice": "50",
+      "averagePrice": "95.3",
+      "transactionVolume": "30",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "143.2",
+      "middlePrice": "94.1",
+      "lowerPrice": "61.5",
+      "averagePrice": "97.4",
+      "transactionVolume": "20678",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心",
+      "upperPrice": "153.2",
+      "middlePrice": "108.9",
+      "lowerPrice": "70.3",
+      "averagePrice": "110",
+      "transactionVolume": "818",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "165.6",
+      "middlePrice": "114.2",
+      "lowerPrice": "76.1",
+      "averagePrice": "116.9",
+      "transactionVolume": "3992",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P5",
+      "productName": "番石榴-水晶無子",
+      "upperPrice": "233",
+      "middlePrice": "116.3",
+      "lowerPrice": "80",
+      "averagePrice": "132.4",
+      "transactionVolume": "137",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q0",
+      "productName": "蓮霧-其他",
+      "upperPrice": "500",
+      "middlePrice": "500",
+      "lowerPrice": "500",
+      "averagePrice": "500",
+      "transactionVolume": "7",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "228.6",
+      "middlePrice": "105.8",
+      "lowerPrice": "49.5",
+      "averagePrice": "119.1",
+      "transactionVolume": "5922",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q2",
+      "productName": "蓮霧-子彈型",
+      "upperPrice": "90",
+      "middlePrice": "56.7",
+      "lowerPrice": "40",
+      "averagePrice": "60",
+      "transactionVolume": "50",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q3",
+      "productName": "蓮霧-翠玉",
+      "upperPrice": "90",
+      "middlePrice": "90",
+      "lowerPrice": "90",
+      "averagePrice": "90",
+      "transactionVolume": "5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q4",
+      "productName": "蓮霧-巴掌蓮霧",
+      "upperPrice": "160",
+      "middlePrice": "157.5",
+      "lowerPrice": "155",
+      "averagePrice": "157.5",
+      "transactionVolume": "10",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q5",
+      "productName": "蓮霧-黑糖芭比",
+      "upperPrice": "370",
+      "middlePrice": "221.5",
+      "lowerPrice": "151.7",
+      "averagePrice": "237.3",
+      "transactionVolume": "393",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R0",
+      "productName": "芒果-其他",
+      "upperPrice": "300",
+      "middlePrice": "262.5",
+      "lowerPrice": "250",
+      "averagePrice": "267.5",
+      "transactionVolume": "20",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R8",
+      "productName": "芒果-芒果青",
+      "upperPrice": "81.3",
+      "middlePrice": "70.3",
+      "lowerPrice": "55.4",
+      "averagePrice": "69.5",
+      "transactionVolume": "443",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "101.3",
+      "middlePrice": "73.8",
+      "lowerPrice": "58.3",
+      "averagePrice": "76.2",
+      "transactionVolume": "3872",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "201.4",
+      "middlePrice": "130.1",
+      "lowerPrice": "95.8",
+      "averagePrice": "137.6",
+      "transactionVolume": "5527",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T0",
+      "productName": "西瓜-其他",
+      "upperPrice": "70.6",
+      "middlePrice": "46.4",
+      "lowerPrice": "40.6",
+      "averagePrice": "50.1",
+      "transactionVolume": "1175",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "15.7",
+      "middlePrice": "12",
+      "lowerPrice": "12",
+      "averagePrice": "12.7",
+      "transactionVolume": "28370",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T5",
+      "productName": "西瓜-黃肉",
+      "upperPrice": "25",
+      "middlePrice": "17.3",
+      "lowerPrice": "16.6",
+      "averagePrice": "18.7",
+      "transactionVolume": "820",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T8",
+      "productName": "西瓜-甜美人",
+      "upperPrice": "32.4",
+      "middlePrice": "23.7",
+      "lowerPrice": "14.9",
+      "averagePrice": "23.7",
+      "transactionVolume": "1056",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V2",
+      "productName": "甜瓜-溫室吊瓜",
+      "upperPrice": "268.4",
+      "middlePrice": "139.9",
+      "lowerPrice": "56.2",
+      "averagePrice": "148.8",
+      "transactionVolume": "359",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "97.4",
+      "middlePrice": "92.6",
+      "lowerPrice": "87.9",
+      "averagePrice": "92.6",
+      "transactionVolume": "666",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "105.3",
+      "middlePrice": "62.4",
+      "lowerPrice": "38.1",
+      "averagePrice": "66.1",
+      "transactionVolume": "2384",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "55.3",
+      "middlePrice": "22.4",
+      "lowerPrice": "15",
+      "averagePrice": "27.5",
+      "transactionVolume": "1114",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W8",
+      "productName": "洋香瓜-阿露斯",
+      "upperPrice": "151",
+      "middlePrice": "113.4",
+      "lowerPrice": "92",
+      "averagePrice": "116.7",
+      "transactionVolume": "280",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W9",
+      "productName": "洋香瓜-進口",
+      "upperPrice": "333.4",
+      "middlePrice": "333.3",
+      "lowerPrice": "333.3",
+      "averagePrice": "333.3",
+      "transactionVolume": "24",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X3",
+      "productName": "蘋果-惠",
+      "upperPrice": "102.4",
+      "middlePrice": "66.3",
+      "lowerPrice": "53.1",
+      "averagePrice": "70.9",
+      "transactionVolume": "672",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X59",
+      "productName": "蘋果-紅玉進口",
+      "upperPrice": "171.9",
+      "middlePrice": "106",
+      "lowerPrice": "82.6",
+      "averagePrice": "114.5",
+      "transactionVolume": "1837",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "92.7",
+      "middlePrice": "54.4",
+      "lowerPrice": "43.3",
+      "averagePrice": "59.9",
+      "transactionVolume": "6254",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "82",
+      "middlePrice": "77.9",
+      "lowerPrice": "55",
+      "averagePrice": "74.2",
+      "transactionVolume": "228",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z39",
+      "productName": "柿子-柿餅進口",
+      "upperPrice": "1000",
+      "middlePrice": "895.6",
+      "lowerPrice": "666.7",
+      "averagePrice": "870.7",
+      "transactionVolume": "116",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "165",
+      "middlePrice": "95.6",
+      "lowerPrice": "57.9",
+      "averagePrice": "102",
+      "transactionVolume": "10886",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z6",
+      "productName": "柿子-秋柿",
+      "upperPrice": "10",
+      "middlePrice": "8.4",
+      "lowerPrice": "7.1",
+      "averagePrice": "8.5",
+      "transactionVolume": "828",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "50",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓",
+      "upperPrice": "200",
+      "middlePrice": "200",
+      "lowerPrice": "200",
+      "averagePrice": "200",
+      "transactionVolume": "2",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "1200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "72.4",
+      "middlePrice": "52.2",
+      "lowerPrice": "41.7",
+      "averagePrice": "54.1",
+      "transactionVolume": "947",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "75.3",
+      "middlePrice": "60.8",
+      "lowerPrice": "60",
+      "averagePrice": "63.5",
+      "transactionVolume": "589",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "175.8",
+      "middlePrice": "145.1",
+      "lowerPrice": "135.8",
+      "averagePrice": "149.4",
+      "transactionVolume": "710",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "107.3",
+      "middlePrice": "96.4",
+      "lowerPrice": "54.7",
+      "averagePrice": "90.2",
+      "transactionVolume": "370",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "63.6",
+      "middlePrice": "57",
+      "lowerPrice": "37.6",
+      "averagePrice": "54.5",
+      "transactionVolume": "529",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "500",
+      "middlePrice": "492.7",
+      "lowerPrice": "480",
+      "averagePrice": "491.6",
+      "transactionVolume": "620",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "10",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10",
+      "transactionVolume": "84",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "919",
+      "productName": "其他-進口",
+      "upperPrice": "362",
+      "middlePrice": "250",
+      "lowerPrice": "77.9",
+      "averagePrice": "238",
+      "transactionVolume": "279",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A0",
+      "productName": "香蕉-其他",
+      "upperPrice": "10",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10",
+      "transactionVolume": "135",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "38.9",
+      "middlePrice": "36",
+      "lowerPrice": "35.8",
+      "averagePrice": "36.5",
+      "transactionVolume": "4365",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "35",
+      "middlePrice": "35",
+      "lowerPrice": "35",
+      "averagePrice": "35",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦",
+      "upperPrice": "38",
+      "middlePrice": "31.9",
+      "lowerPrice": "28.8",
+      "averagePrice": "32.5",
+      "transactionVolume": "104",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "35",
+      "middlePrice": "35",
+      "lowerPrice": "35",
+      "averagePrice": "35",
+      "transactionVolume": "90",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "46.4",
+      "middlePrice": "31",
+      "lowerPrice": "25.6",
+      "averagePrice": "33",
+      "transactionVolume": "9258",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "35",
+      "middlePrice": "32.5",
+      "lowerPrice": "30",
+      "averagePrice": "32.5",
+      "transactionVolume": "48",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C7",
+      "productName": "豔陽柑",
+      "upperPrice": "40",
+      "middlePrice": "31.7",
+      "lowerPrice": "30",
+      "averagePrice": "33",
+      "transactionVolume": "276",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "50.9",
+      "middlePrice": "26.5",
+      "lowerPrice": "25",
+      "averagePrice": "31.1",
+      "transactionVolume": "1346",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他",
+      "upperPrice": "25",
+      "middlePrice": "23.5",
+      "lowerPrice": "22",
+      "averagePrice": "23.5",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "32.2",
+      "middlePrice": "23.9",
+      "lowerPrice": "22.6",
+      "averagePrice": "25.3",
+      "transactionVolume": "2577",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "46.7",
+      "middlePrice": "46.7",
+      "lowerPrice": "46.7",
+      "averagePrice": "46.7",
+      "transactionVolume": "1200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "50",
+      "middlePrice": "45.3",
+      "lowerPrice": "43",
+      "averagePrice": "45.8",
+      "transactionVolume": "90",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "70",
+      "middlePrice": "62.5",
+      "lowerPrice": "55",
+      "averagePrice": "62.5",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "70",
+      "middlePrice": "70",
+      "lowerPrice": "70",
+      "averagePrice": "70",
+      "transactionVolume": "42",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F6",
+      "productName": "雜柑-黃金檸檬",
+      "upperPrice": "120",
+      "middlePrice": "115.9",
+      "lowerPrice": "110",
+      "averagePrice": "115.6",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "90",
+      "middlePrice": "80",
+      "lowerPrice": "66.8",
+      "averagePrice": "79.4",
+      "transactionVolume": "284",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "108",
+      "middlePrice": "96.2",
+      "lowerPrice": "87.2",
+      "averagePrice": "96.8",
+      "transactionVolume": "125",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "133.3",
+      "middlePrice": "133.3",
+      "lowerPrice": "133.3",
+      "averagePrice": "133.3",
+      "transactionVolume": "360",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "65",
+      "middlePrice": "65",
+      "lowerPrice": "65",
+      "averagePrice": "65",
+      "transactionVolume": "60",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H2",
+      "productName": "柚子-白柚",
+      "upperPrice": "32",
+      "middlePrice": "32",
+      "lowerPrice": "32",
+      "averagePrice": "32",
+      "transactionVolume": "119",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "69.9",
+      "middlePrice": "56.9",
+      "lowerPrice": "42.2",
+      "averagePrice": "56.5",
+      "transactionVolume": "1280",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種",
+      "upperPrice": "65",
+      "middlePrice": "56.7",
+      "lowerPrice": "55",
+      "averagePrice": "58",
+      "transactionVolume": "100",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "25.8",
+      "averagePrice": "29.2",
+      "transactionVolume": "144",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K4",
+      "productName": "龍眼-龍眼乾帶殼",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "20",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "70",
+      "middlePrice": "51.1",
+      "lowerPrice": "40",
+      "averagePrice": "52.6",
+      "transactionVolume": "242",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "86.7",
+      "middlePrice": "86.7",
+      "lowerPrice": "86.7",
+      "averagePrice": "86.7",
+      "transactionVolume": "810",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "59.5",
+      "middlePrice": "40.8",
+      "lowerPrice": "35",
+      "averagePrice": "43.4",
+      "transactionVolume": "4297",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "90.6",
+      "middlePrice": "69.8",
+      "lowerPrice": "64.8",
+      "averagePrice": "73",
+      "transactionVolume": "5632",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "145",
+      "middlePrice": "141.9",
+      "lowerPrice": "140",
+      "averagePrice": "142.1",
+      "transactionVolume": "84",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "90.1",
+      "middlePrice": "69.2",
+      "lowerPrice": "59.5",
+      "averagePrice": "71.5",
+      "transactionVolume": "1102",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "68.5",
+      "middlePrice": "62.8",
+      "lowerPrice": "56.3",
+      "averagePrice": "62.7",
+      "transactionVolume": "1405",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "279.5",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "255.9",
+      "transactionVolume": "1016",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "25",
+      "middlePrice": "16.2",
+      "lowerPrice": "13",
+      "averagePrice": "17.3",
+      "transactionVolume": "2005",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "64",
+      "middlePrice": "43.2",
+      "lowerPrice": "36",
+      "averagePrice": "45.9",
+      "transactionVolume": "888",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "26.1",
+      "middlePrice": "16.7",
+      "lowerPrice": "15",
+      "averagePrice": "18.2",
+      "transactionVolume": "2052",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W8",
+      "productName": "洋香瓜-阿露斯",
+      "upperPrice": "72",
+      "middlePrice": "68",
+      "lowerPrice": "65",
+      "averagePrice": "68.2",
+      "transactionVolume": "34",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X09",
+      "productName": "蘋果-其他進口",
+      "upperPrice": "210",
+      "middlePrice": "210",
+      "lowerPrice": "210",
+      "averagePrice": "210",
+      "transactionVolume": "490",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "180",
+      "middlePrice": "110.5",
+      "lowerPrice": "80",
+      "averagePrice": "118.3",
+      "transactionVolume": "4960",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "120",
+      "middlePrice": "120",
+      "lowerPrice": "120",
+      "averagePrice": "120",
+      "transactionVolume": "30",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z39",
+      "productName": "柿子-柿餅進口",
+      "upperPrice": "1000",
+      "middlePrice": "1000",
+      "lowerPrice": "1000",
+      "averagePrice": "1000",
+      "transactionVolume": "1.2",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "81",
+      "middlePrice": "58.4",
+      "lowerPrice": "55",
+      "averagePrice": "62.2",
+      "transactionVolume": "2298",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "10.4",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10.1",
+      "transactionVolume": "2444",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "129",
+      "productName": "椰子-剝殼進口",
+      "upperPrice": "53.8",
+      "middlePrice": "40",
+      "lowerPrice": "40",
+      "averagePrice": "42.8",
+      "transactionVolume": "1132",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子",
+      "upperPrice": "170.6",
+      "middlePrice": "133.4",
+      "lowerPrice": "78.9",
+      "averagePrice": "129.9",
+      "transactionVolume": "227",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "119.5",
+      "middlePrice": "89.1",
+      "lowerPrice": "78.6",
+      "averagePrice": "93.1",
+      "transactionVolume": "863.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦",
+      "upperPrice": "106.3",
+      "middlePrice": "77.9",
+      "lowerPrice": "45",
+      "averagePrice": "77",
+      "transactionVolume": "334",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓",
+      "upperPrice": "232",
+      "middlePrice": "232",
+      "lowerPrice": "185.4",
+      "averagePrice": "222.7",
+      "transactionVolume": "151",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口",
+      "upperPrice": "2000",
+      "middlePrice": "1819.3",
+      "lowerPrice": "750",
+      "averagePrice": "1641.6",
+      "transactionVolume": "139.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "89.2",
+      "averagePrice": "217.8",
+      "transactionVolume": "4434",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "112.7",
+      "middlePrice": "77.7",
+      "lowerPrice": "34.7",
+      "averagePrice": "76.1",
+      "transactionVolume": "169",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "87.5",
+      "middlePrice": "46.7",
+      "lowerPrice": "34.6",
+      "averagePrice": "52.5",
+      "transactionVolume": "5158",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "70",
+      "productName": "小番茄-其他",
+      "upperPrice": "101.3",
+      "middlePrice": "79.5",
+      "lowerPrice": "63.5",
+      "averagePrice": "80.6",
+      "transactionVolume": "368",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "71",
+      "productName": "小番茄-ㄧ般",
+      "upperPrice": "56",
+      "middlePrice": "56",
+      "lowerPrice": "56",
+      "averagePrice": "56",
+      "transactionVolume": "1790",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "87.1",
+      "middlePrice": "64.6",
+      "lowerPrice": "51.8",
+      "averagePrice": "66.5",
+      "transactionVolume": "3818.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "185.8",
+      "middlePrice": "163.1",
+      "lowerPrice": "85.5",
+      "averagePrice": "152.1",
+      "transactionVolume": "3175",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "122",
+      "middlePrice": "107.3",
+      "lowerPrice": "73",
+      "averagePrice": "103.4",
+      "transactionVolume": "814",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "119.1",
+      "middlePrice": "104",
+      "lowerPrice": "78",
+      "averagePrice": "101.8",
+      "transactionVolume": "3377",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "855.2",
+      "middlePrice": "505.9",
+      "lowerPrice": "466.1",
+      "averagePrice": "567.8",
+      "transactionVolume": "4537.4",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口",
+      "upperPrice": "280",
+      "middlePrice": "243.9",
+      "lowerPrice": "200",
+      "averagePrice": "242.4",
+      "transactionVolume": "255",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "859",
+      "productName": "榴槤-進口",
+      "upperPrice": "130",
+      "middlePrice": "130",
+      "lowerPrice": "130",
+      "averagePrice": "130",
+      "transactionVolume": "1030",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "919",
+      "productName": "其他-進口",
+      "upperPrice": "300",
+      "middlePrice": "59.5",
+      "lowerPrice": "20",
+      "averagePrice": "99.7",
+      "transactionVolume": "360",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A0",
+      "productName": "香蕉-其他",
+      "upperPrice": "15",
+      "middlePrice": "15",
+      "lowerPrice": "15",
+      "averagePrice": "15",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "47.4",
+      "middlePrice": "37",
+      "lowerPrice": "32",
+      "averagePrice": "38.1",
+      "transactionVolume": "9675",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "88.6",
+      "middlePrice": "55.9",
+      "lowerPrice": "37.4",
+      "averagePrice": "58.8",
+      "transactionVolume": "1325",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A3",
+      "productName": "香蕉-旦蕉",
+      "upperPrice": "110",
+      "middlePrice": "95.3",
+      "lowerPrice": "80",
+      "averagePrice": "95.2",
+      "transactionVolume": "39",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦",
+      "upperPrice": "61.6",
+      "middlePrice": "42.1",
+      "lowerPrice": "25.4",
+      "averagePrice": "42.7",
+      "transactionVolume": "347",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "31.9",
+      "middlePrice": "24",
+      "lowerPrice": "23.9",
+      "averagePrice": "25.6",
+      "transactionVolume": "2705",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他",
+      "upperPrice": "44.6",
+      "middlePrice": "25",
+      "lowerPrice": "23.4",
+      "averagePrice": "28.6",
+      "transactionVolume": "1920",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "40",
+      "middlePrice": "27",
+      "lowerPrice": "24.6",
+      "averagePrice": "29.1",
+      "transactionVolume": "91215",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C4",
+      "productName": "紅柑-美女柑",
+      "upperPrice": "16",
+      "middlePrice": "16",
+      "lowerPrice": "16",
+      "averagePrice": "16",
+      "transactionVolume": "108",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "49",
+      "middlePrice": "44.4",
+      "lowerPrice": "34.9",
+      "averagePrice": "43.4",
+      "transactionVolume": "3066",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C7",
+      "productName": "豔陽柑",
+      "upperPrice": "40",
+      "middlePrice": "34.9",
+      "lowerPrice": "23.3",
+      "averagePrice": "33.6",
+      "transactionVolume": "97",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "87.8",
+      "middlePrice": "47.6",
+      "lowerPrice": "31.5",
+      "averagePrice": "52.4",
+      "transactionVolume": "1642",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C9",
+      "productName": "柑橘-進口",
+      "upperPrice": "128.8",
+      "middlePrice": "55.3",
+      "lowerPrice": "50",
+      "averagePrice": "69",
+      "transactionVolume": "1298",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "D2",
+      "productName": "海梨柑",
+      "upperPrice": "28",
+      "middlePrice": "28",
+      "lowerPrice": "28",
+      "averagePrice": "28",
+      "transactionVolume": "1689",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "27.5",
+      "middlePrice": "22",
+      "lowerPrice": "21.1",
+      "averagePrice": "22.9",
+      "transactionVolume": "14173",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E3",
+      "productName": "甜橙-紅肉柳橙",
+      "upperPrice": "26",
+      "middlePrice": "26",
+      "lowerPrice": "26",
+      "averagePrice": "26",
+      "transactionVolume": "552",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "60",
+      "middlePrice": "58.6",
+      "lowerPrice": "50",
+      "averagePrice": "57.1",
+      "transactionVolume": "1540",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "77.6",
+      "middlePrice": "40.5",
+      "lowerPrice": "28.1",
+      "averagePrice": "45.4",
+      "transactionVolume": "1368",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗",
+      "upperPrice": "92.3",
+      "middlePrice": "80.3",
+      "lowerPrice": "70",
+      "averagePrice": "80.7",
+      "transactionVolume": "231",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "101.6",
+      "middlePrice": "44.3",
+      "lowerPrice": "38",
+      "averagePrice": "54.5",
+      "transactionVolume": "138",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "127",
+      "middlePrice": "83",
+      "lowerPrice": "46.8",
+      "averagePrice": "84.5",
+      "transactionVolume": "658",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F6",
+      "productName": "雜柑-黃金檸檬",
+      "upperPrice": "37",
+      "middlePrice": "37",
+      "lowerPrice": "37",
+      "averagePrice": "37",
+      "transactionVolume": "21",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F9",
+      "productName": "雜柑-進口",
+      "upperPrice": "766.7",
+      "middlePrice": "701.6",
+      "lowerPrice": "515.2",
+      "averagePrice": "677.3",
+      "transactionVolume": "22",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G1",
+      "productName": "蛋黃果-仙桃",
+      "upperPrice": "15",
+      "middlePrice": "15",
+      "lowerPrice": "15",
+      "averagePrice": "15",
+      "transactionVolume": "102",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "115.7",
+      "middlePrice": "64.7",
+      "lowerPrice": "53.8",
+      "averagePrice": "72.7",
+      "transactionVolume": "788.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "119.8",
+      "middlePrice": "96.1",
+      "lowerPrice": "74.5",
+      "averagePrice": "96.5",
+      "transactionVolume": "1751.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G39",
+      "productName": "酪梨-進口",
+      "upperPrice": "200",
+      "middlePrice": "200",
+      "lowerPrice": "200",
+      "averagePrice": "200",
+      "transactionVolume": "160",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "120",
+      "middlePrice": "101.1",
+      "lowerPrice": "60",
+      "averagePrice": "96.7",
+      "transactionVolume": "3285",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G7",
+      "productName": "橄欖",
+      "upperPrice": "15",
+      "middlePrice": "14.4",
+      "lowerPrice": "12",
+      "averagePrice": "14",
+      "transactionVolume": "124",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "60",
+      "middlePrice": "54.7",
+      "lowerPrice": "50",
+      "averagePrice": "54.8",
+      "transactionVolume": "208",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H2",
+      "productName": "柚子-白柚",
+      "upperPrice": "30",
+      "middlePrice": "21.9",
+      "lowerPrice": "15",
+      "averagePrice": "22.1",
+      "transactionVolume": "200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "71",
+      "middlePrice": "39.5",
+      "lowerPrice": "37.6",
+      "averagePrice": "45.4",
+      "transactionVolume": "11020",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種",
+      "upperPrice": "70.9",
+      "middlePrice": "39.7",
+      "lowerPrice": "36",
+      "averagePrice": "45.2",
+      "transactionVolume": "476",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "27.6",
+      "middlePrice": "21.1",
+      "lowerPrice": "18",
+      "averagePrice": "21.8",
+      "transactionVolume": "347",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K2",
+      "productName": "龍眼-十月眼",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "30",
+      "averagePrice": "30",
+      "transactionVolume": "270",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K4",
+      "productName": "龍眼-龍眼乾帶殼",
+      "upperPrice": "160",
+      "middlePrice": "136.1",
+      "lowerPrice": "117",
+      "averagePrice": "137.1",
+      "transactionVolume": "177",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "K41",
+      "productName": "龍眼-龍眼肉",
+      "upperPrice": "220",
+      "middlePrice": "220",
+      "lowerPrice": "220",
+      "averagePrice": "220",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "M3",
+      "productName": "楊桃-馬來亞種",
+      "upperPrice": "42",
+      "middlePrice": "42",
+      "lowerPrice": "42",
+      "averagePrice": "42",
+      "transactionVolume": "200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "70",
+      "middlePrice": "70",
+      "lowerPrice": "69.5",
+      "averagePrice": "69.9",
+      "transactionVolume": "1380",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "100",
+      "middlePrice": "100",
+      "lowerPrice": "100",
+      "averagePrice": "100",
+      "transactionVolume": "4995",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "44.1",
+      "middlePrice": "42",
+      "lowerPrice": "41.4",
+      "averagePrice": "42.3",
+      "transactionVolume": "26211",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "107.8",
+      "middlePrice": "77",
+      "lowerPrice": "67.8",
+      "averagePrice": "81.3",
+      "transactionVolume": "19766",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心",
+      "upperPrice": "141.6",
+      "middlePrice": "118.8",
+      "lowerPrice": "74.4",
+      "averagePrice": "114.5",
+      "transactionVolume": "364",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "102.4",
+      "middlePrice": "71",
+      "lowerPrice": "68.1",
+      "averagePrice": "76.7",
+      "transactionVolume": "3423",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P5",
+      "productName": "番石榴-水晶無子",
+      "upperPrice": "125",
+      "middlePrice": "111.7",
+      "lowerPrice": "105",
+      "averagePrice": "113",
+      "transactionVolume": "60",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "108.1",
+      "middlePrice": "96",
+      "lowerPrice": "93.5",
+      "averagePrice": "97.9",
+      "transactionVolume": "8638.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q2",
+      "productName": "蓮霧-子彈型",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "30",
+      "averagePrice": "30",
+      "transactionVolume": "614",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R0",
+      "productName": "芒果-其他",
+      "upperPrice": "200",
+      "middlePrice": "200",
+      "lowerPrice": "200",
+      "averagePrice": "200",
+      "transactionVolume": "6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R8",
+      "productName": "芒果-芒果青",
+      "upperPrice": "92.2",
+      "middlePrice": "51.7",
+      "lowerPrice": "50",
+      "averagePrice": "59.5",
+      "transactionVolume": "251",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "60.1",
+      "middlePrice": "53",
+      "lowerPrice": "52.6",
+      "averagePrice": "54.4",
+      "transactionVolume": "7983",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "326.4",
+      "middlePrice": "247",
+      "lowerPrice": "105.5",
+      "averagePrice": "234.6",
+      "transactionVolume": "6813",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T0",
+      "productName": "西瓜-其他",
+      "upperPrice": "133.9",
+      "middlePrice": "45.6",
+      "lowerPrice": "35",
+      "averagePrice": "61.2",
+      "transactionVolume": "400.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "15",
+      "middlePrice": "14.5",
+      "lowerPrice": "14",
+      "averagePrice": "14.5",
+      "transactionVolume": "1980",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V1",
+      "productName": "甜瓜-美濃",
+      "upperPrice": "11",
+      "middlePrice": "11",
+      "lowerPrice": "11",
+      "averagePrice": "11",
+      "transactionVolume": "1134",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V2",
+      "productName": "甜瓜-溫室吊瓜",
+      "upperPrice": "32",
+      "middlePrice": "32",
+      "lowerPrice": "32",
+      "averagePrice": "32",
+      "transactionVolume": "120",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "83",
+      "middlePrice": "79.3",
+      "lowerPrice": "69.7",
+      "averagePrice": "78.1",
+      "transactionVolume": "1901.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉",
+      "upperPrice": "85",
+      "middlePrice": "80.7",
+      "lowerPrice": "75.8",
+      "averagePrice": "80.6",
+      "transactionVolume": "1080",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "86.9",
+      "middlePrice": "71.5",
+      "lowerPrice": "49.8",
+      "averagePrice": "70.2",
+      "transactionVolume": "4471",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "80",
+      "middlePrice": "15.5",
+      "lowerPrice": "7",
+      "averagePrice": "26.7",
+      "transactionVolume": "2538",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W9",
+      "productName": "洋香瓜-進口",
+      "upperPrice": "500",
+      "middlePrice": "500",
+      "lowerPrice": "500",
+      "averagePrice": "500",
+      "transactionVolume": "8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X0",
+      "productName": "蘋果-其他",
+      "upperPrice": "20",
+      "middlePrice": "20",
+      "lowerPrice": "20",
+      "averagePrice": "20",
+      "transactionVolume": "272",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X09",
+      "productName": "蘋果-其他進口",
+      "upperPrice": "360",
+      "middlePrice": "170.4",
+      "lowerPrice": "160",
+      "averagePrice": "206.2",
+      "transactionVolume": "305",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X49",
+      "productName": "蘋果-金冠進口",
+      "upperPrice": "180",
+      "middlePrice": "180",
+      "lowerPrice": "180",
+      "averagePrice": "180",
+      "transactionVolume": "580",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "220.7",
+      "middlePrice": "104.5",
+      "lowerPrice": "69.2",
+      "averagePrice": "120.7",
+      "transactionVolume": "25470",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "140",
+      "middlePrice": "131.8",
+      "lowerPrice": "50",
+      "averagePrice": "117.1",
+      "transactionVolume": "157",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z39",
+      "productName": "柿子-柿餅進口",
+      "upperPrice": "1000",
+      "middlePrice": "972.1",
+      "lowerPrice": "800",
+      "averagePrice": "943.3",
+      "transactionVolume": "67",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "97.6",
+      "middlePrice": "82",
+      "lowerPrice": "80.7",
+      "averagePrice": "84.9",
+      "transactionVolume": "16613",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z5",
+      "productName": "柿子-筆柿",
+      "upperPrice": "32",
+      "middlePrice": "32",
+      "lowerPrice": "32",
+      "averagePrice": "32",
+      "transactionVolume": "36",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z9",
+      "productName": "柿子-進口",
+      "upperPrice": "357.1",
+      "middlePrice": "357.1",
+      "lowerPrice": "357.1",
+      "averagePrice": "357.1",
+      "transactionVolume": "14",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "140",
+      "middlePrice": "60",
+      "lowerPrice": "35",
+      "averagePrice": "60",
+      "transactionVolume": "2750",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "130",
+      "middlePrice": "90",
+      "lowerPrice": "60",
+      "averagePrice": "90",
+      "transactionVolume": "3450",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "350",
+      "middlePrice": "200",
+      "lowerPrice": "130",
+      "averagePrice": "200",
+      "transactionVolume": "1250",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "110",
+      "middlePrice": "90",
+      "lowerPrice": "80",
+      "averagePrice": "90",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "120",
+      "middlePrice": "90",
+      "lowerPrice": "60",
+      "averagePrice": "90",
+      "transactionVolume": "2450",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "50",
+      "middlePrice": "40",
+      "lowerPrice": "30",
+      "averagePrice": "40",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "50",
+      "middlePrice": "40",
+      "lowerPrice": "30",
+      "averagePrice": "40",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "50",
+      "middlePrice": "32",
+      "lowerPrice": "12",
+      "averagePrice": "32",
+      "transactionVolume": "2950",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "75",
+      "middlePrice": "45",
+      "lowerPrice": "25",
+      "averagePrice": "45",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "50",
+      "middlePrice": "35",
+      "lowerPrice": "25",
+      "averagePrice": "35",
+      "transactionVolume": "3450",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "120",
+      "middlePrice": "90",
+      "lowerPrice": "70",
+      "averagePrice": "90",
+      "transactionVolume": "1250",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "80",
+      "middlePrice": "55",
+      "lowerPrice": "45",
+      "averagePrice": "55",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "100",
+      "middlePrice": "80",
+      "lowerPrice": "70",
+      "averagePrice": "80",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "120",
+      "middlePrice": "80",
+      "lowerPrice": "50",
+      "averagePrice": "80",
+      "transactionVolume": "3450",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "140",
+      "middlePrice": "90",
+      "lowerPrice": "50",
+      "averagePrice": "90",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "220",
+      "middlePrice": "130",
+      "lowerPrice": "70",
+      "averagePrice": "130",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "150",
+      "middlePrice": "90",
+      "lowerPrice": "80",
+      "averagePrice": "90",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "75",
+      "middlePrice": "50",
+      "lowerPrice": "30",
+      "averagePrice": "50",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "140",
+      "middlePrice": "40",
+      "lowerPrice": "30",
+      "averagePrice": "40",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "180",
+      "middlePrice": "100",
+      "lowerPrice": "70",
+      "averagePrice": "100",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "10",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10",
+      "transactionVolume": "25",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "35",
+      "middlePrice": "35",
+      "lowerPrice": "35",
+      "averagePrice": "35",
+      "transactionVolume": "10",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "54.2",
+      "middlePrice": "30.5",
+      "lowerPrice": "27",
+      "averagePrice": "34.5",
+      "transactionVolume": "183",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "10",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10",
+      "transactionVolume": "18",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "48",
+      "middlePrice": "45.1",
+      "lowerPrice": "38.9",
+      "averagePrice": "44.4",
+      "transactionVolume": "278",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "47",
+      "middlePrice": "46.5",
+      "lowerPrice": "45",
+      "averagePrice": "46.3",
+      "transactionVolume": "255",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A3",
+      "productName": "香蕉-旦蕉",
+      "upperPrice": "32",
+      "middlePrice": "32",
+      "lowerPrice": "32",
+      "averagePrice": "32",
+      "transactionVolume": "11",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "43.7",
+      "middlePrice": "31.3",
+      "lowerPrice": "12.2",
+      "averagePrice": "30",
+      "transactionVolume": "1627",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "53",
+      "middlePrice": "53",
+      "lowerPrice": "53",
+      "averagePrice": "53",
+      "transactionVolume": "48",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他",
+      "upperPrice": "30.2",
+      "middlePrice": "21.3",
+      "lowerPrice": "10.8",
+      "averagePrice": "21",
+      "transactionVolume": "108",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "10",
+      "middlePrice": "10",
+      "lowerPrice": "10",
+      "averagePrice": "10",
+      "transactionVolume": "8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "119.4",
+      "middlePrice": "96.8",
+      "lowerPrice": "47.5",
+      "averagePrice": "91.5",
+      "transactionVolume": "903",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "70",
+      "middlePrice": "68",
+      "lowerPrice": "65",
+      "averagePrice": "67.8",
+      "transactionVolume": "300",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "67.8",
+      "middlePrice": "64.9",
+      "lowerPrice": "59.5",
+      "averagePrice": "64.4",
+      "transactionVolume": "144",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "35",
+      "middlePrice": "27.6",
+      "lowerPrice": "19.6",
+      "averagePrice": "27.5",
+      "transactionVolume": "455",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "45",
+      "middlePrice": "45",
+      "lowerPrice": "45",
+      "averagePrice": "45",
+      "transactionVolume": "78",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "67",
+      "middlePrice": "65.8",
+      "lowerPrice": "60.4",
+      "averagePrice": "65",
+      "transactionVolume": "103",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "68.8",
+      "middlePrice": "63.2",
+      "lowerPrice": "50.7",
+      "averagePrice": "61.8",
+      "transactionVolume": "238",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心",
+      "upperPrice": "60",
+      "middlePrice": "60",
+      "lowerPrice": "60",
+      "averagePrice": "60",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "60",
+      "middlePrice": "57.7",
+      "lowerPrice": "40",
+      "averagePrice": "54.6",
+      "transactionVolume": "37",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "92",
+      "middlePrice": "79.6",
+      "lowerPrice": "50",
+      "averagePrice": "76.2",
+      "transactionVolume": "99",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "20",
+      "middlePrice": "16.1",
+      "lowerPrice": "12",
+      "averagePrice": "16.6",
+      "transactionVolume": "4403",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "129",
+      "productName": "椰子-剝殼進口",
+      "upperPrice": "50",
+      "middlePrice": "50",
+      "lowerPrice": "50",
+      "averagePrice": "50",
+      "transactionVolume": "790",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子",
+      "upperPrice": "150",
+      "middlePrice": "135",
+      "lowerPrice": "90",
+      "averagePrice": "135.3",
+      "transactionVolume": "306",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "150",
+      "middlePrice": "104",
+      "lowerPrice": "80",
+      "averagePrice": "121.4",
+      "transactionVolume": "1212",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦",
+      "upperPrice": "111.7",
+      "middlePrice": "85.7",
+      "lowerPrice": "66.7",
+      "averagePrice": "98",
+      "transactionVolume": "324",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "45",
+      "productName": "草莓",
+      "upperPrice": "250",
+      "middlePrice": "214.3",
+      "lowerPrice": "133.3",
+      "averagePrice": "220.5",
+      "transactionVolume": "571",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "380",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "4582",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "180",
+      "middlePrice": "115",
+      "lowerPrice": "56",
+      "averagePrice": "104.1",
+      "transactionVolume": "81",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "74.2",
+      "middlePrice": "53.6",
+      "lowerPrice": "42.3",
+      "averagePrice": "61",
+      "transactionVolume": "7633",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "70",
+      "productName": "小番茄-其他",
+      "upperPrice": "117.5",
+      "middlePrice": "92.4",
+      "lowerPrice": "48.3",
+      "averagePrice": "72.8",
+      "transactionVolume": "1206",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "97.8",
+      "middlePrice": "80.2",
+      "lowerPrice": "55",
+      "averagePrice": "76.8",
+      "transactionVolume": "6653",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "230.4",
+      "middlePrice": "181.9",
+      "lowerPrice": "139.2",
+      "averagePrice": "160.5",
+      "transactionVolume": "2650",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "85",
+      "middlePrice": "74",
+      "lowerPrice": "65",
+      "averagePrice": "71.4",
+      "transactionVolume": "42",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "119.5",
+      "middlePrice": "89.7",
+      "lowerPrice": "66.6",
+      "averagePrice": "87.8",
+      "transactionVolume": "1416",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "500",
+      "middlePrice": "500",
+      "lowerPrice": "500",
+      "averagePrice": "500",
+      "transactionVolume": "1935",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "1664",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "102.8",
+      "middlePrice": "48.8",
+      "lowerPrice": "16.4",
+      "averagePrice": "48.4",
+      "transactionVolume": "11463",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "43.8",
+      "middlePrice": "35.1",
+      "lowerPrice": "24.2",
+      "averagePrice": "37.2",
+      "transactionVolume": "23973",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "72.9",
+      "middlePrice": "44.3",
+      "lowerPrice": "22.5",
+      "averagePrice": "32.2",
+      "transactionVolume": "3310",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A4",
+      "productName": "香蕉-越旦",
+      "upperPrice": "55",
+      "middlePrice": "54.3",
+      "lowerPrice": "40",
+      "averagePrice": "50.9",
+      "transactionVolume": "57",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "40",
+      "middlePrice": "37.7",
+      "lowerPrice": "32.5",
+      "averagePrice": "35.5",
+      "transactionVolume": "6598",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他",
+      "upperPrice": "38",
+      "middlePrice": "35",
+      "lowerPrice": "30",
+      "averagePrice": "31.4",
+      "transactionVolume": "702",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "51.9",
+      "middlePrice": "34.4",
+      "lowerPrice": "18.9",
+      "averagePrice": "38.1",
+      "transactionVolume": "52611",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "48.2",
+      "middlePrice": "34.8",
+      "lowerPrice": "26",
+      "averagePrice": "47",
+      "transactionVolume": "1824",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "75",
+      "middlePrice": "46.2",
+      "lowerPrice": "25",
+      "averagePrice": "43.5",
+      "transactionVolume": "3244",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他",
+      "upperPrice": "25",
+      "middlePrice": "23.5",
+      "lowerPrice": "22",
+      "averagePrice": "23.5",
+      "transactionVolume": "108",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "40",
+      "middlePrice": "35.3",
+      "lowerPrice": "28.3",
+      "averagePrice": "36.1",
+      "transactionVolume": "9186",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "100",
+      "middlePrice": "91.4",
+      "lowerPrice": "73.3",
+      "averagePrice": "92",
+      "transactionVolume": "1680",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗",
+      "upperPrice": "70",
+      "middlePrice": "60",
+      "lowerPrice": "50",
+      "averagePrice": "65.2",
+      "transactionVolume": "126",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "120",
+      "middlePrice": "106.7",
+      "lowerPrice": "20",
+      "averagePrice": "101.7",
+      "transactionVolume": "307",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "120.7",
+      "middlePrice": "82.4",
+      "lowerPrice": "58",
+      "averagePrice": "91.4",
+      "transactionVolume": "1194",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G1",
+      "productName": "蛋黃果-仙桃",
+      "upperPrice": "15",
+      "middlePrice": "15",
+      "lowerPrice": "15",
+      "averagePrice": "15",
+      "transactionVolume": "60",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "130",
+      "middlePrice": "87.9",
+      "lowerPrice": "68.5",
+      "averagePrice": "93.1",
+      "transactionVolume": "410",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "122.8",
+      "middlePrice": "107.4",
+      "lowerPrice": "76.6",
+      "averagePrice": "81.6",
+      "transactionVolume": "3483",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G39",
+      "productName": "酪梨-進口",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "600",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "2348",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G7",
+      "productName": "橄欖",
+      "upperPrice": "30",
+      "middlePrice": "25",
+      "lowerPrice": "20",
+      "averagePrice": "22.6",
+      "transactionVolume": "54",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "64",
+      "middlePrice": "54.4",
+      "lowerPrice": "41.2",
+      "averagePrice": "56.7",
+      "transactionVolume": "14538",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I3",
+      "productName": "木瓜-日昇種",
+      "upperPrice": "61",
+      "middlePrice": "59",
+      "lowerPrice": "56",
+      "averagePrice": "58.2",
+      "transactionVolume": "180",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O0",
+      "productName": "梨-其他",
+      "upperPrice": "54",
+      "middlePrice": "47.6",
+      "lowerPrice": "40",
+      "averagePrice": "46.4",
+      "transactionVolume": "260",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "100",
+      "middlePrice": "76",
+      "lowerPrice": "55",
+      "averagePrice": "77.3",
+      "transactionVolume": "4320",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "752",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "100",
+      "middlePrice": "80",
+      "lowerPrice": "56.7",
+      "averagePrice": "78.5",
+      "transactionVolume": "4440",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "101",
+      "middlePrice": "78",
+      "lowerPrice": "53.4",
+      "averagePrice": "81.2",
+      "transactionVolume": "20631",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P2",
+      "productName": "番石榴-紅心",
+      "upperPrice": "45",
+      "middlePrice": "45",
+      "lowerPrice": "45",
+      "averagePrice": "45",
+      "transactionVolume": "20",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P3",
+      "productName": "番石榴-帝王芭",
+      "upperPrice": "119",
+      "middlePrice": "114.7",
+      "lowerPrice": "94.5",
+      "averagePrice": "109.9",
+      "transactionVolume": "84",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P5",
+      "productName": "番石榴-水晶無子",
+      "upperPrice": "50",
+      "middlePrice": "50",
+      "lowerPrice": "50",
+      "averagePrice": "50",
+      "transactionVolume": "12",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "119.2",
+      "middlePrice": "66.4",
+      "lowerPrice": "50.8",
+      "averagePrice": "71.8",
+      "transactionVolume": "6848",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "R8",
+      "productName": "芒果-芒果青",
+      "upperPrice": "90",
+      "middlePrice": "90",
+      "lowerPrice": "60",
+      "averagePrice": "85.8",
+      "transactionVolume": "128",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市",
+      "upperPrice": "0",
+      "middlePrice": "0",
+      "lowerPrice": "0",
+      "averagePrice": "0",
+      "transactionVolume": "0",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "90",
+      "middlePrice": "58",
+      "lowerPrice": "43.8",
+      "averagePrice": "64.7",
+      "transactionVolume": "2425",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "125",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "125",
+      "transactionVolume": "7700",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "20",
+      "middlePrice": "16",
+      "lowerPrice": "12",
+      "averagePrice": "16.4",
+      "transactionVolume": "4950",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T5",
+      "productName": "西瓜-黃肉",
+      "upperPrice": "25",
+      "middlePrice": "20",
+      "lowerPrice": "15",
+      "averagePrice": "20.6",
+      "transactionVolume": "731",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V1",
+      "productName": "甜瓜-美濃",
+      "upperPrice": "40",
+      "middlePrice": "30",
+      "lowerPrice": "20",
+      "averagePrice": "32.5",
+      "transactionVolume": "742",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V2",
+      "productName": "甜瓜-溫室吊瓜",
+      "upperPrice": "100",
+      "middlePrice": "90",
+      "lowerPrice": "80",
+      "averagePrice": "92.1",
+      "transactionVolume": "114",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "68.9",
+      "middlePrice": "51.8",
+      "lowerPrice": "32.3",
+      "averagePrice": "53.7",
+      "transactionVolume": "5464",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉",
+      "upperPrice": "18",
+      "middlePrice": "18",
+      "lowerPrice": "13",
+      "averagePrice": "15.8",
+      "transactionVolume": "282",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X3",
+      "productName": "蘋果-惠",
+      "upperPrice": "124.7",
+      "middlePrice": "60.1",
+      "lowerPrice": "38.3",
+      "averagePrice": "55.4",
+      "transactionVolume": "1166",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "250",
+      "middlePrice": "125",
+      "lowerPrice": "125",
+      "averagePrice": "131.2",
+      "transactionVolume": "10522",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "125",
+      "middlePrice": "81.7",
+      "lowerPrice": "70",
+      "averagePrice": "124",
+      "transactionVolume": "480",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "154",
+      "middlePrice": "94.4",
+      "lowerPrice": "53.4",
+      "averagePrice": "110.7",
+      "transactionVolume": "18142",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "20",
+      "middlePrice": "13.8",
+      "lowerPrice": "10",
+      "averagePrice": "14.3",
+      "transactionVolume": "105",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "22",
+      "productName": "棗子",
+      "upperPrice": "140",
+      "middlePrice": "120.4",
+      "lowerPrice": "90",
+      "averagePrice": "118.3",
+      "transactionVolume": "7.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "32",
+      "productName": "釋迦-鳳梨釋迦",
+      "upperPrice": "110",
+      "middlePrice": "67.7",
+      "lowerPrice": "50",
+      "averagePrice": "72.6",
+      "transactionVolume": "28.9",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "240",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "75",
+      "middlePrice": "53.7",
+      "lowerPrice": "45",
+      "averagePrice": "56.3",
+      "transactionVolume": "533.3",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "79.2",
+      "middlePrice": "71.8",
+      "lowerPrice": "67.4",
+      "averagePrice": "72.4",
+      "transactionVolume": "120.3",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "230",
+      "middlePrice": "146.5",
+      "lowerPrice": "140",
+      "averagePrice": "161.9",
+      "transactionVolume": "25.9",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "500",
+      "middlePrice": "500",
+      "lowerPrice": "500",
+      "averagePrice": "500",
+      "transactionVolume": "160.8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "34.5",
+      "middlePrice": "31.4",
+      "lowerPrice": "27.6",
+      "averagePrice": "31.3",
+      "transactionVolume": "12955.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "45",
+      "middlePrice": "35.9",
+      "lowerPrice": "23.5",
+      "averagePrice": "35.2",
+      "transactionVolume": "281",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "37.3",
+      "middlePrice": "36.4",
+      "lowerPrice": "35.3",
+      "averagePrice": "36.4",
+      "transactionVolume": "16235.3",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "31.1",
+      "middlePrice": "28",
+      "lowerPrice": "21.7",
+      "averagePrice": "27.4",
+      "transactionVolume": "7189.3",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "81",
+      "middlePrice": "80",
+      "lowerPrice": "78.7",
+      "averagePrice": "79.9",
+      "transactionVolume": "1197.2",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "90",
+      "middlePrice": "90",
+      "lowerPrice": "90",
+      "averagePrice": "90",
+      "transactionVolume": "6.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "21",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "96",
+      "middlePrice": "95",
+      "lowerPrice": "94.6",
+      "averagePrice": "95.1",
+      "transactionVolume": "792.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "123.7",
+      "middlePrice": "110",
+      "lowerPrice": "104.9",
+      "averagePrice": "111.7",
+      "transactionVolume": "2191.1",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G8",
+      "productName": "栗子",
+      "upperPrice": "55",
+      "middlePrice": "51.7",
+      "lowerPrice": "50",
+      "averagePrice": "52",
+      "transactionVolume": "250",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "58.5",
+      "middlePrice": "55",
+      "lowerPrice": "43.4",
+      "averagePrice": "53.4",
+      "transactionVolume": "3652.7",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "88.8",
+      "middlePrice": "65.6",
+      "lowerPrice": "45",
+      "averagePrice": "66.1",
+      "transactionVolume": "1516.1",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "73.1",
+      "middlePrice": "68",
+      "lowerPrice": "56.4",
+      "averagePrice": "66.7",
+      "transactionVolume": "62.9",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "79.4",
+      "middlePrice": "68",
+      "lowerPrice": "53.6",
+      "averagePrice": "67.4",
+      "transactionVolume": "84.5",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "100.8",
+      "middlePrice": "60.5",
+      "lowerPrice": "50",
+      "averagePrice": "66.5",
+      "transactionVolume": "902.9",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "127.6",
+      "middlePrice": "110",
+      "lowerPrice": "103.4",
+      "averagePrice": "112.2",
+      "transactionVolume": "1700.3",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "20",
+      "middlePrice": "12.2",
+      "lowerPrice": "10",
+      "averagePrice": "13.3",
+      "transactionVolume": "2250",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T5",
+      "productName": "西瓜-黃肉",
+      "upperPrice": "20.4",
+      "middlePrice": "14.8",
+      "lowerPrice": "10",
+      "averagePrice": "15",
+      "transactionVolume": "7022.8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T8",
+      "productName": "西瓜-甜美人",
+      "upperPrice": "20",
+      "middlePrice": "14.3",
+      "lowerPrice": "12",
+      "averagePrice": "15",
+      "transactionVolume": "2000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V1",
+      "productName": "甜瓜-美濃",
+      "upperPrice": "41.8",
+      "middlePrice": "30.4",
+      "lowerPrice": "18.5",
+      "averagePrice": "30.3",
+      "transactionVolume": "4945.4",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "57.5",
+      "middlePrice": "50",
+      "lowerPrice": "39.2",
+      "averagePrice": "49.3",
+      "transactionVolume": "3029.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉",
+      "upperPrice": "40",
+      "middlePrice": "22.7",
+      "lowerPrice": "18.5",
+      "averagePrice": "25.3",
+      "transactionVolume": "1778.7",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X3",
+      "productName": "蘋果-惠",
+      "upperPrice": "80",
+      "middlePrice": "42.8",
+      "lowerPrice": "35",
+      "averagePrice": "48.7",
+      "transactionVolume": "616.1",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "128.1",
+      "middlePrice": "110",
+      "lowerPrice": "106",
+      "averagePrice": "112.8",
+      "transactionVolume": "2797.4",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "105.6",
+      "middlePrice": "94.1",
+      "lowerPrice": "64.6",
+      "averagePrice": "90.5",
+      "transactionVolume": "921.8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "66.6",
+      "middlePrice": "66.6",
+      "lowerPrice": "66.6",
+      "averagePrice": "66.6",
+      "transactionVolume": "6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "66",
+      "middlePrice": "43.3",
+      "lowerPrice": "13.1",
+      "averagePrice": "37.2",
+      "transactionVolume": "6066",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "33.3",
+      "middlePrice": "33.3",
+      "lowerPrice": "33.3",
+      "averagePrice": "33.3",
+      "transactionVolume": "77.4",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "104",
+      "middlePrice": "74.7",
+      "lowerPrice": "51.9",
+      "averagePrice": "78.37",
+      "transactionVolume": "435.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E0",
+      "productName": "甜橙-其他",
+      "upperPrice": "66.6",
+      "middlePrice": "66.6",
+      "lowerPrice": "41.6",
+      "averagePrice": "41.67",
+      "transactionVolume": "72",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "25",
+      "middlePrice": "25",
+      "lowerPrice": "16",
+      "averagePrice": "22.08",
+      "transactionVolume": "240",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "83.3",
+      "middlePrice": "75.5",
+      "lowerPrice": "58.7",
+      "averagePrice": "70.58",
+      "transactionVolume": "48.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "91.6",
+      "middlePrice": "85.9",
+      "lowerPrice": "83.3",
+      "averagePrice": "87.81",
+      "transactionVolume": "168.6",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "206.9",
+      "middlePrice": "136.1",
+      "lowerPrice": "93.8",
+      "averagePrice": "132.52",
+      "transactionVolume": "11344.8",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市",
+      "upperPrice": "0",
+      "middlePrice": "0",
+      "lowerPrice": "0",
+      "averagePrice": "0",
+      "transactionVolume": "0",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "20",
+      "middlePrice": "14",
+      "lowerPrice": "10",
+      "averagePrice": "14",
+      "transactionVolume": "1300",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "100",
+      "middlePrice": "66",
+      "lowerPrice": "35",
+      "averagePrice": "66",
+      "transactionVolume": "5500",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "106",
+      "middlePrice": "66",
+      "lowerPrice": "50",
+      "averagePrice": "66",
+      "transactionVolume": "6000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "90",
+      "middlePrice": "60",
+      "lowerPrice": "50",
+      "averagePrice": "60",
+      "transactionVolume": "1200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "550",
+      "middlePrice": "500",
+      "lowerPrice": "370",
+      "averagePrice": "500",
+      "transactionVolume": "800",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "859",
+      "productName": "榴槤-進口",
+      "upperPrice": "168",
+      "middlePrice": "150",
+      "lowerPrice": "150",
+      "averagePrice": "150",
+      "transactionVolume": "400",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "38",
+      "middlePrice": "15",
+      "lowerPrice": "8",
+      "averagePrice": "15",
+      "transactionVolume": "5000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "38",
+      "middlePrice": "30",
+      "lowerPrice": "18",
+      "averagePrice": "30",
+      "transactionVolume": "6000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "42",
+      "middlePrice": "33",
+      "lowerPrice": "23",
+      "averagePrice": "33",
+      "transactionVolume": "5000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "55",
+      "middlePrice": "36",
+      "lowerPrice": "20",
+      "averagePrice": "36",
+      "transactionVolume": "14000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "36",
+      "middlePrice": "25",
+      "lowerPrice": "20",
+      "averagePrice": "25",
+      "transactionVolume": "7000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "88",
+      "middlePrice": "60",
+      "lowerPrice": "30",
+      "averagePrice": "60",
+      "transactionVolume": "1700",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "92",
+      "middlePrice": "60",
+      "lowerPrice": "40",
+      "averagePrice": "60",
+      "transactionVolume": "1200",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "125",
+      "middlePrice": "100",
+      "lowerPrice": "70",
+      "averagePrice": "100",
+      "transactionVolume": "1300",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "170",
+      "middlePrice": "120",
+      "lowerPrice": "100",
+      "averagePrice": "120",
+      "transactionVolume": "1800",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H4",
+      "productName": "葡萄柚-紅肉",
+      "upperPrice": "25",
+      "middlePrice": "20",
+      "lowerPrice": "16",
+      "averagePrice": "20",
+      "transactionVolume": "1400",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "62",
+      "middlePrice": "53",
+      "lowerPrice": "35",
+      "averagePrice": "53",
+      "transactionVolume": "7000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "105",
+      "middlePrice": "66",
+      "lowerPrice": "42",
+      "averagePrice": "66",
+      "transactionVolume": "4000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "90",
+      "middlePrice": "66",
+      "lowerPrice": "42",
+      "averagePrice": "66",
+      "transactionVolume": "2000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "136",
+      "middlePrice": "95",
+      "lowerPrice": "50",
+      "averagePrice": "95",
+      "transactionVolume": "1000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "125",
+      "middlePrice": "90",
+      "lowerPrice": "60",
+      "averagePrice": "90",
+      "transactionVolume": "1500",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "250",
+      "middlePrice": "113",
+      "lowerPrice": "80",
+      "averagePrice": "113",
+      "transactionVolume": "2400",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "30",
+      "middlePrice": "16",
+      "lowerPrice": "13",
+      "averagePrice": "16",
+      "transactionVolume": "3500",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T3",
+      "productName": "西瓜-黑美人",
+      "upperPrice": "18",
+      "middlePrice": "11",
+      "lowerPrice": "7",
+      "averagePrice": "11",
+      "transactionVolume": "8000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T5",
+      "productName": "西瓜-黃肉",
+      "upperPrice": "18",
+      "middlePrice": "11",
+      "lowerPrice": "7",
+      "averagePrice": "11",
+      "transactionVolume": "11000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "V1",
+      "productName": "甜瓜-美濃",
+      "upperPrice": "40",
+      "middlePrice": "25",
+      "lowerPrice": "14",
+      "averagePrice": "25",
+      "transactionVolume": "4000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "60",
+      "middlePrice": "50",
+      "lowerPrice": "33",
+      "averagePrice": "50",
+      "transactionVolume": "8000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W2",
+      "productName": "洋香瓜-網狀綠肉",
+      "upperPrice": "55",
+      "middlePrice": "40",
+      "lowerPrice": "25",
+      "averagePrice": "40",
+      "transactionVolume": "5000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "36",
+      "middlePrice": "22",
+      "lowerPrice": "17",
+      "averagePrice": "22",
+      "transactionVolume": "3000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X09",
+      "productName": "蘋果-其他進口",
+      "upperPrice": "125",
+      "middlePrice": "98",
+      "lowerPrice": "60",
+      "averagePrice": "98",
+      "transactionVolume": "7000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z2",
+      "productName": "柿子-水柿",
+      "upperPrice": "45",
+      "middlePrice": "23",
+      "lowerPrice": "17",
+      "averagePrice": "23",
+      "transactionVolume": "1000",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "125",
+      "middlePrice": "77",
+      "lowerPrice": "42",
+      "averagePrice": "77",
+      "transactionVolume": "4500",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市",
+      "upperPrice": "0",
+      "middlePrice": "0",
+      "lowerPrice": "0",
+      "averagePrice": "0",
+      "transactionVolume": "0",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "12",
+      "middlePrice": "10",
+      "lowerPrice": "9",
+      "averagePrice": "10.2",
+      "transactionVolume": "1400",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "31",
+      "productName": "釋迦",
+      "upperPrice": "110",
+      "middlePrice": "99.1",
+      "lowerPrice": "90",
+      "averagePrice": "99.47",
+      "transactionVolume": "684",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "459",
+      "productName": "草莓-進口",
+      "upperPrice": "1000",
+      "middlePrice": "992.6",
+      "lowerPrice": "800",
+      "averagePrice": "955.56",
+      "transactionVolume": "45",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "469",
+      "productName": "藍莓-進口",
+      "upperPrice": "285",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "257",
+      "transactionVolume": "500",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "50",
+      "productName": "百香果-其他",
+      "upperPrice": "150",
+      "middlePrice": "105.3",
+      "lowerPrice": "80",
+      "averagePrice": "109.17",
+      "transactionVolume": "144",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "107.8",
+      "middlePrice": "72.5",
+      "lowerPrice": "55.4",
+      "averagePrice": "76.14",
+      "transactionVolume": "1129",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "120",
+      "middlePrice": "111.1",
+      "lowerPrice": "80",
+      "averagePrice": "106.68",
+      "transactionVolume": "570",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "74",
+      "productName": "小番茄-玉女",
+      "upperPrice": "250",
+      "middlePrice": "250",
+      "lowerPrice": "250",
+      "averagePrice": "250",
+      "transactionVolume": "24",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "811",
+      "productName": "紅龍果-白肉",
+      "upperPrice": "50",
+      "middlePrice": "46.5",
+      "lowerPrice": "45",
+      "averagePrice": "46.88",
+      "transactionVolume": "16",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "75.9",
+      "averagePrice": "79.18",
+      "transactionVolume": "769",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "839",
+      "productName": "櫻桃-進口",
+      "upperPrice": "618.7",
+      "middlePrice": "599.3",
+      "lowerPrice": "540.4",
+      "averagePrice": "591.39",
+      "transactionVolume": "534",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "849",
+      "productName": "石榴-進口",
+      "upperPrice": "200",
+      "middlePrice": "200",
+      "lowerPrice": "200",
+      "averagePrice": "200",
+      "transactionVolume": "50",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "91",
+      "productName": "其他",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "30",
+      "averagePrice": "30",
+      "transactionVolume": "610",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "45",
+      "middlePrice": "35.3",
+      "lowerPrice": "30",
+      "averagePrice": "36.2",
+      "transactionVolume": "1775",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A2",
+      "productName": "香蕉-芭蕉紅芭蕉",
+      "upperPrice": "30",
+      "middlePrice": "30",
+      "lowerPrice": "30",
+      "averagePrice": "30",
+      "transactionVolume": "80",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "59.2",
+      "middlePrice": "49.3",
+      "lowerPrice": "45",
+      "averagePrice": "50.42",
+      "transactionVolume": "1180",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C0",
+      "productName": "柑橘-其他",
+      "upperPrice": "50",
+      "middlePrice": "48.2",
+      "lowerPrice": "40",
+      "averagePrice": "46.92",
+      "transactionVolume": "156",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "52.7",
+      "middlePrice": "41.1",
+      "lowerPrice": "32.9",
+      "averagePrice": "41.78",
+      "transactionVolume": "12852",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C6",
+      "productName": "佛利蒙柑",
+      "upperPrice": "55",
+      "middlePrice": "37.5",
+      "lowerPrice": "30",
+      "averagePrice": "39.52",
+      "transactionVolume": "1008",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C8",
+      "productName": "珍珠柑",
+      "upperPrice": "120",
+      "middlePrice": "120",
+      "lowerPrice": "120",
+      "averagePrice": "120",
+      "transactionVolume": "120",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "D2",
+      "productName": "海梨柑",
+      "upperPrice": "30",
+      "middlePrice": "26.8",
+      "lowerPrice": "25",
+      "averagePrice": "27.07",
+      "transactionVolume": "522",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "37.8",
+      "middlePrice": "32.3",
+      "lowerPrice": "25.7",
+      "averagePrice": "32.07",
+      "transactionVolume": "1335",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E9",
+      "productName": "甜橙-進口",
+      "upperPrice": "83.3",
+      "middlePrice": "83.3",
+      "lowerPrice": "83.3",
+      "averagePrice": "83.3",
+      "transactionVolume": "180",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "150",
+      "middlePrice": "76",
+      "lowerPrice": "55",
+      "averagePrice": "86.58",
+      "transactionVolume": "760",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F2",
+      "productName": "雜柑-金棗",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "100",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F4",
+      "productName": "雜柑-桔子",
+      "upperPrice": "90",
+      "middlePrice": "78.7",
+      "lowerPrice": "62.3",
+      "averagePrice": "77.69",
+      "transactionVolume": "260",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F5",
+      "productName": "雜柑-無子檸檬",
+      "upperPrice": "160",
+      "middlePrice": "125",
+      "lowerPrice": "90",
+      "averagePrice": "125",
+      "transactionVolume": "40",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G2",
+      "productName": "黃金果",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "111",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "80",
+      "middlePrice": "80",
+      "lowerPrice": "80",
+      "averagePrice": "80",
+      "transactionVolume": "84",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "173.6",
+      "middlePrice": "161.2",
+      "lowerPrice": "150",
+      "averagePrice": "161.46",
+      "transactionVolume": "480",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "H4",
+      "productName": "葡萄柚-紅肉",
+      "upperPrice": "20",
+      "middlePrice": "20",
+      "lowerPrice": "20",
+      "averagePrice": "20",
+      "transactionVolume": "243",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "61.9",
+      "middlePrice": "54.9",
+      "lowerPrice": "40",
+      "averagePrice": "53.34",
+      "transactionVolume": "3920",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I4",
+      "productName": "木瓜-青木瓜",
+      "upperPrice": "34.8",
+      "middlePrice": "29.1",
+      "lowerPrice": "25",
+      "averagePrice": "29.42",
+      "transactionVolume": "1560",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "120",
+      "middlePrice": "120",
+      "lowerPrice": "120",
+      "averagePrice": "120",
+      "transactionVolume": "150",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "100",
+      "middlePrice": "84",
+      "lowerPrice": "30",
+      "averagePrice": "76.37",
+      "transactionVolume": "1004",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "80",
+      "middlePrice": "71.2",
+      "lowerPrice": "65",
+      "averagePrice": "71.71",
+      "transactionVolume": "1758",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "85.3",
+      "middlePrice": "70.3",
+      "lowerPrice": "60",
+      "averagePrice": "71.23",
+      "transactionVolume": "1026",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "rest",
+      "productName": "休市",
+      "upperPrice": "0",
+      "middlePrice": "0",
+      "lowerPrice": "0",
+      "averagePrice": "0",
+      "transactionVolume": "0",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "106.3",
+      "middlePrice": "64.8",
+      "lowerPrice": "53.5",
+      "averagePrice": "70.87",
+      "transactionVolume": "911",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S9",
+      "productName": "葡萄-進口",
+      "upperPrice": "200",
+      "middlePrice": "200",
+      "lowerPrice": "200",
+      "averagePrice": "200",
+      "transactionVolume": "550",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "35",
+      "middlePrice": "25",
+      "lowerPrice": "20",
+      "averagePrice": "25.97",
+      "transactionVolume": "5960",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W6",
+      "productName": "洋香瓜-光面綠肉",
+      "upperPrice": "30",
+      "middlePrice": "27.1",
+      "lowerPrice": "25",
+      "averagePrice": "27.27",
+      "transactionVolume": "264",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "233.6",
+      "middlePrice": "80",
+      "lowerPrice": "75",
+      "averagePrice": "109.71",
+      "transactionVolume": "9440",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z3",
+      "productName": "柿子-柿餅",
+      "upperPrice": "170",
+      "middlePrice": "170",
+      "lowerPrice": "170",
+      "averagePrice": "170",
+      "transactionVolume": "30",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "128.1",
+      "middlePrice": "94.7",
+      "lowerPrice": "80",
+      "averagePrice": "98.41",
+      "transactionVolume": "1660",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "11",
+      "productName": "椰子",
+      "upperPrice": "13",
+      "middlePrice": "11",
+      "lowerPrice": "9",
+      "averagePrice": "11",
+      "transactionVolume": "1580",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "120",
+      "middlePrice": "70.2",
+      "lowerPrice": "41.6",
+      "averagePrice": "70.2",
+      "transactionVolume": "1940",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "121.4",
+      "middlePrice": "95",
+      "lowerPrice": "56.9",
+      "averagePrice": "95",
+      "transactionVolume": "1100",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "123.1",
+      "middlePrice": "80.2",
+      "lowerPrice": "56.4",
+      "averagePrice": "80.2",
+      "transactionVolume": "1510",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "48.2",
+      "middlePrice": "35.5",
+      "lowerPrice": "28",
+      "averagePrice": "35.5",
+      "transactionVolume": "4060",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "50",
+      "middlePrice": "42.2",
+      "lowerPrice": "25.4",
+      "averagePrice": "42.2",
+      "transactionVolume": "5110",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "52.8",
+      "middlePrice": "32.8",
+      "lowerPrice": "22",
+      "averagePrice": "32.8",
+      "transactionVolume": "28740",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "E1",
+      "productName": "甜橙-柳橙",
+      "upperPrice": "38.4",
+      "middlePrice": "27.4",
+      "lowerPrice": "21.1",
+      "averagePrice": "27.4",
+      "transactionVolume": "2220",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "F1",
+      "productName": "雜柑-檸檬",
+      "upperPrice": "127.1",
+      "middlePrice": "74.5",
+      "lowerPrice": "38",
+      "averagePrice": "74.5",
+      "transactionVolume": "830",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G3",
+      "productName": "酪梨",
+      "upperPrice": "105.7",
+      "middlePrice": "90.2",
+      "lowerPrice": "70",
+      "averagePrice": "90.2",
+      "transactionVolume": "460",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "65.1",
+      "middlePrice": "46",
+      "lowerPrice": "24.1",
+      "averagePrice": "46",
+      "transactionVolume": "12750",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O10",
+      "productName": "梨-寶島甘露梨",
+      "upperPrice": "91.9",
+      "middlePrice": "74.2",
+      "lowerPrice": "47.2",
+      "averagePrice": "74.2",
+      "transactionVolume": "480",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "OW",
+      "productName": "梨-雪梨",
+      "upperPrice": "64.4",
+      "middlePrice": "47.3",
+      "lowerPrice": "28.3",
+      "averagePrice": "47.3",
+      "transactionVolume": "930",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "108",
+      "middlePrice": "81.2",
+      "lowerPrice": "48",
+      "averagePrice": "81.2",
+      "transactionVolume": "2900",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "110",
+      "middlePrice": "90.9",
+      "lowerPrice": "58.5",
+      "averagePrice": "90.9",
+      "transactionVolume": "1710",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "104.4",
+      "middlePrice": "69.4",
+      "lowerPrice": "44.2",
+      "averagePrice": "69.4",
+      "transactionVolume": "2050",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "34.5",
+      "middlePrice": "23.7",
+      "lowerPrice": "19",
+      "averagePrice": "23.7",
+      "transactionVolume": "16110",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "81.8",
+      "middlePrice": "61.2",
+      "lowerPrice": "46.2",
+      "averagePrice": "61.2",
+      "transactionVolume": "900",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W4",
+      "productName": "洋香瓜-新疆",
+      "upperPrice": "105",
+      "middlePrice": "65.8",
+      "lowerPrice": "32.3",
+      "averagePrice": "65.8",
+      "transactionVolume": "1020",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "135.3",
+      "middlePrice": "100.7",
+      "lowerPrice": "55",
+      "averagePrice": "100.7",
+      "transactionVolume": "2390",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "51",
+      "productName": "百香果-改良種",
+      "upperPrice": "124.6",
+      "middlePrice": "67.3",
+      "lowerPrice": "38.9",
+      "averagePrice": "71.4",
+      "transactionVolume": "390",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "72",
+      "productName": "小番茄-聖女",
+      "upperPrice": "124.5",
+      "middlePrice": "92.8",
+      "lowerPrice": "53.8",
+      "averagePrice": "96.7",
+      "transactionVolume": "462",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "812",
+      "productName": "紅龍果-紅肉",
+      "upperPrice": "125.6",
+      "middlePrice": "78.6",
+      "lowerPrice": "54.8",
+      "averagePrice": "63.9",
+      "transactionVolume": "1260",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "A1",
+      "productName": "香蕉",
+      "upperPrice": "50.6",
+      "middlePrice": "33.8",
+      "lowerPrice": "26.1",
+      "averagePrice": "32.1",
+      "transactionVolume": "1425",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "B2",
+      "productName": "鳳梨-金鑽鳳梨",
+      "upperPrice": "52.6",
+      "middlePrice": "40.8",
+      "lowerPrice": "23.9",
+      "averagePrice": "40.2",
+      "transactionVolume": "1400",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "C1",
+      "productName": "椪柑",
+      "upperPrice": "54.1",
+      "middlePrice": "30.9",
+      "lowerPrice": "20.8",
+      "averagePrice": "35.6",
+      "transactionVolume": "1764",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "G49",
+      "productName": "奇異果-進口",
+      "upperPrice": "176.1",
+      "middlePrice": "158.9",
+      "lowerPrice": "141.6",
+      "averagePrice": "163.1",
+      "transactionVolume": "1080",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "I1",
+      "productName": "木瓜-網室紅肉",
+      "upperPrice": "67.5",
+      "middlePrice": "44.6",
+      "lowerPrice": "22.8",
+      "averagePrice": "46.7",
+      "transactionVolume": "1170",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "O9",
+      "productName": "梨-其他進口",
+      "upperPrice": "93.1",
+      "middlePrice": "73.1",
+      "lowerPrice": "45.8",
+      "averagePrice": "72.4",
+      "transactionVolume": "864",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "P1",
+      "productName": "番石榴-珍珠芭",
+      "upperPrice": "110.5",
+      "middlePrice": "78.6",
+      "lowerPrice": "46.7",
+      "averagePrice": "77.9",
+      "transactionVolume": "1116",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Q1",
+      "productName": "蓮霧-紅蓮霧",
+      "upperPrice": "113.8",
+      "middlePrice": "89.2",
+      "lowerPrice": "56.7",
+      "averagePrice": "99.4",
+      "transactionVolume": "1152",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "S1",
+      "productName": "葡萄-巨峰",
+      "upperPrice": "105.4",
+      "middlePrice": "67.9",
+      "lowerPrice": "42.3",
+      "averagePrice": "69.4",
+      "transactionVolume": "1188",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "T1",
+      "productName": "西瓜-大西瓜",
+      "upperPrice": "36.1",
+      "middlePrice": "22.9",
+      "lowerPrice": "17.2",
+      "averagePrice": "24.2",
+      "transactionVolume": "4680",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "W1",
+      "productName": "洋香瓜-網狀紅肉",
+      "upperPrice": "83.4",
+      "middlePrice": "59.8",
+      "lowerPrice": "43.8",
+      "averagePrice": "59.1",
+      "transactionVolume": "600",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "X69",
+      "productName": "蘋果-富士進口",
+      "upperPrice": "235.1",
+      "middlePrice": "78.4",
+      "lowerPrice": "71.2",
+      "averagePrice": "107.8",
+      "transactionVolume": "2025",
+      "category": "Fruit"
+    },
+    {
+      "productCode": "Z4",
+      "productName": "柿子-甜柿",
+      "upperPrice": "137.8",
+      "middlePrice": "98.9",
+      "lowerPrice": "52.1",
+      "averagePrice": "95.9",
+      "transactionVolume": "1344",
+      "category": "Fruit"
+    }
+  ]
+}
