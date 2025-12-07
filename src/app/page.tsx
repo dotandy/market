@@ -458,16 +458,22 @@ export default function Home() {
       copyInputValues(element, clone);
 
       clone.style.position = 'absolute';
-      // Use a visible position but obscured if possible, or just off-screen but rendered
-      // Sometimes -9999px causes issues with some engines, but usually fine.
-      // Let's try z-index underneath.
       clone.style.top = '0';
       clone.style.left = '0';
       clone.style.zIndex = '-9999';
-      clone.style.width = `${element.offsetWidth}px`;
+      // FIX: Full Width Capture
+      clone.style.width = 'fit-content';
+      clone.style.minWidth = '1100px'; // Ensure fixed minimal width context like displayed
       document.body.appendChild(clone);
 
       cleanStyles(clone);
+
+      // FIX: Reveal Overflow
+      const scrollableDiv = clone.querySelector('.overflow-x-auto');
+      if (scrollableDiv) {
+        (scrollableDiv as HTMLElement).style.overflow = 'visible';
+        (scrollableDiv as HTMLElement).style.width = 'auto';
+      }
 
       // Small delay to ensure rendering
       await new Promise(resolve => setTimeout(resolve, 100));
@@ -499,37 +505,66 @@ export default function Home() {
       clone.style.top = '0';
       clone.style.left = '0';
       clone.style.zIndex = '-9999';
-      clone.style.width = `${element.offsetWidth}px`;
+      // FIX: Full Width Capture
+      clone.style.width = 'fit-content';
+      clone.style.minWidth = '1100px';
       document.body.appendChild(clone);
 
       cleanStyles(clone);
 
+      // FIX: Reveal Overflow
+      const scrollableDiv = clone.querySelector('.overflow-x-auto');
+      if (scrollableDiv) {
+        (scrollableDiv as HTMLElement).style.overflow = 'visible';
+        (scrollableDiv as HTMLElement).style.width = 'auto';
+      }
+
       await new Promise(resolve => setTimeout(resolve, 100));
 
-      // Use JPEG with compression for smaller file size
+      // Capture full image
       const imgData = await toPng(clone, {
         cacheBust: true,
         backgroundColor: '#ffffff',
-        pixelRatio: 1.0  // Lower pixel ratio for smaller file size
+        pixelRatio: 1.5 // Higher quality for scaling down
       });
+
+      // Original Dimensions
+      const imgWidth = clone.offsetWidth;
+      const imgHeight = clone.offsetHeight;
 
       document.body.removeChild(clone);
 
+      // PDF Setup
       const pdf = new jsPDF('p', 'mm', 'a4');
-      const pdfWidth = pdf.internal.pageSize.getWidth();
-      const margin = 15; // Margin 15mm
-      const contentWidth = pdfWidth - (margin * 2);
-      const pdfHeight = (element.offsetHeight * contentWidth) / element.offsetWidth;
+      const pdfPageWidth = pdf.internal.pageSize.getWidth();
+      const pdfPageHeight = pdf.internal.pageSize.getHeight();
+      const margin = 10;
+      const contentMaxWidth = pdfPageWidth - (margin * 2);
+      const contentMaxHeight = pdfPageHeight - (margin * 2);
 
-      // Use JPEG format with compression (0.7 quality) for smaller file size
-      pdf.addImage(imgData, 'JPEG', margin, margin, contentWidth, pdfHeight, undefined, 'FAST');
+      // Calculate Scaling (Fit Contain)
+      const widthRatio = contentMaxWidth / imgWidth;
+      const heightRatio = contentMaxHeight / imgHeight;
+      const scale = Math.min(widthRatio, heightRatio); // Use the smaller ratio to ensure fit
+
+      const finalWidth = imgWidth * scale;
+      const finalHeight = imgHeight * scale;
+
+      // Center horizontally/vertically?
+      // Usually Top-Left aligned or Horizontally Centered is preferred.
+      const x = margin + (contentMaxWidth - finalWidth) / 2;
+      const y = margin;
+
+      pdf.addImage(imgData, 'JPEG', x, y, finalWidth, finalHeight, undefined, 'FAST');
 
       // Extract customer name and start date from the form for filename
       let customerName = '';
       let startDate = '';
 
-      // Find all inputs in the clone
-      const allInputs = clone.querySelectorAll('input');
+      // Find all inputs in the clone - wait, clone is gone. Use original element logic or re-query if needed?
+      // We can use 'element' to find values since we copied them.
+      // Actually simpler to just traverse element now since values match.
+      const allInputs = element.querySelectorAll('input');
       allInputs.forEach((input: any) => {
         const value = input.value?.trim();
         if (!value) return;
@@ -538,7 +573,6 @@ export default function Home() {
         const parentDiv = input.parentElement;
         if (parentDiv) {
           const parentText = parentDiv.textContent || '';
-
           // Look for customer name (客戶簡稱)
           if (!customerName && parentText.includes('客戶簡稱')) {
             customerName = value;
@@ -547,14 +581,11 @@ export default function Home() {
       });
 
       // Extract date from the first table cell (first row, first column)
-      const firstTableCell = clone.querySelector('table tbody tr:first-child td:first-child input');
+      // Note: We need to rely on the table structure of the real DOM element
+      const firstTableCell = element.querySelector('table tbody tr:first-child td:first-child input');
       if (firstTableCell) {
         startDate = (firstTableCell as HTMLInputElement).value?.trim() || '';
       }
-
-      // Debug: log extracted values
-      console.log('Extracted for filename:', { customerName, startDate });
-
 
       // Format filename: CustomerNameMMDD.pdf
       // Extract MMDD from date format like "114/12/03" -> "1203"
