@@ -4,6 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Trash2, Plus, Calendar, X } from 'lucide-react';
 import { MarketData } from '@/lib/types';
 import { cn, getTodayROCDate, formatROCDate } from '@/lib/utils';
+import customerList from '../../data/list_customer.json';
 
 interface QuoteTableProps {
     initialData: MarketData[];
@@ -29,6 +30,13 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
     const [endDate, setEndDate] = useState(getTodayROCDate());
     const [customerId, setCustomerId] = useState('');
     const [customerName, setCustomerName] = useState('');
+
+    useEffect(() => {
+        const found = customerList.find((c: { id: string; name: string }) => c.id === customerId);
+        if (found) {
+            setCustomerName(found.name);
+        }
+    }, [customerId]);
 
     useEffect(() => {
         setData(initialData);
@@ -252,7 +260,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
     const dateDisplayClass = "export-no-border bg-white border-2 border-gray-800 rounded px-2 py-0.5 font-normal text-lg font-inherit cursor-pointer select-none hover:bg-slate-50 transition-colors";
 
     return (
-        <div className="w-full bg-white p-4 min-h-[800px] text-black" style={{ fontFamily: '"BiauKai", "Kaiti TC", "楷體-繁", "標楷體", "DFKai-SB", "STKaiti", serif' }}>
+        <div className="w-full bg-white p-4 min-h-[800px] text-black" style={{ fontFamily: '"Microsoft JhengHei", "微軟正黑體", sans-serif' }}>
             {/* Header */}
             <div className="text-center mb-3">
                 <h1 className="text-3xl font-normal tracking-widest mb-2">義庄合作農場</h1>
@@ -347,7 +355,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                                         <input
                                             type="text"
                                             value={customerId}
-                                            onChange={(e) => setCustomerId(e.target.value)}
+                                            onChange={(e) => setCustomerId(e.target.value.replace(/[^0-9]/g, ''))}
                                             className={headerInputClass}
                                             style={{ width: '80px' }}
                                         />
@@ -365,7 +373,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
                                         <input
                                             type="text"
                                             value={customerId}
-                                            onChange={(e) => setCustomerId(e.target.value)}
+                                            onChange={(e) => setCustomerId(e.target.value.replace(/[^0-9]/g, ''))}
                                             className={headerInputClass}
                                             style={{ width: '80px' }}
                                         />
