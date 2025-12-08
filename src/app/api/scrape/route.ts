@@ -132,7 +132,7 @@ export async function GET(request: Request) {
     const apiDate = date.replace(/\//g, '.');
 
     try {
-        console.log(`Starting fetch for ${date} - ${type}`);
+        // console.log(`Starting fetch for ${date} - ${type}`);
 
         const apiUrl = new URL('https://data.moa.gov.tw/Service/OpenData/FromM/FarmTransData.aspx');
         apiUrl.searchParams.append('StartDate', apiDate);
@@ -220,7 +220,7 @@ export async function GET(request: Request) {
 
         // Check if data is empty or invalid (all zeros). If so, treat as market closed and load backup.
         if (processedData.length === 0 || isInvalidZeroData) {
-            console.log(`No data found or Invalid Zero Data for ${date} (Type: ${type}). Attempting to load backup.`);
+            // console.log(`No data found...`);
 
             // Load backups
             let backupData: MarketData[] = [];

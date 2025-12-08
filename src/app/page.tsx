@@ -5,7 +5,7 @@ import { MarketData, ScrapeResponse } from '@/lib/types';
 import { getTodayROCDate, formatROCDateTime, formatROCDate } from '@/lib/utils';
 import QuoteTable from '@/components/QuoteTable';
 import ExcelImport from '@/components/ExcelImport';
-import { Search, Download, Upload, Image, FileText, AlertTriangle, Loader2, Calendar } from 'lucide-react';
+import { Search, Download, Upload, Image, Loader2, AlertTriangle, FileText } from 'lucide-react';
 import { toPng } from 'html-to-image';
 import jsPDF from 'jspdf';
 
@@ -465,7 +465,6 @@ export default function Home() {
       // FIX: Full Width Capture
       clone.style.width = 'fit-content';
       clone.style.width = 'fit-content';
-      // clone.style.minWidth = '1100px'; // Removed to ensure proper centering based on content
       document.body.appendChild(clone);
 
       cleanStyles(clone);

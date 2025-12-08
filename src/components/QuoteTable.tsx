@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import { Trash2, Plus, Calendar, X } from 'lucide-react';
+import { Trash2, Plus } from 'lucide-react';
 import { MarketData } from '@/lib/types';
 import { cn, getTodayROCDate, formatROCDate } from '@/lib/utils';
 import customerList from '../../data/list_customer.json';
@@ -18,7 +18,7 @@ export default function QuoteTable({ initialData, onDataChange, date, productMas
     const lastValidStart = useRef<string>('');
     const lastValidEnd = useRef<string>('');
 
-    const [printMode, setPrintMode] = useState(false);
+
     const startDateInputRef = useRef<HTMLInputElement>(null);
     const endDateInputRef = useRef<HTMLInputElement>(null);
     const [activeSearchIndex, setActiveSearchIndex] = useState<number | null>(null);
